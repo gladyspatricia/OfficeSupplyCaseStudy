@@ -1,0 +1,886 @@
+,CustomerID,CustomerName,Gender,Age,CustomerType,City,State,PostalCode,Region,Recency,RecencyCluster,Frequency,FrequencyCluster,Sales,SalesCluster,OverallScore,Profit,ValueSegment,ValueSegment
+0,KD-16270,Karen Daniels,Female,18,Consumer,Springfield,Virginia,22153,South,633,1,16,2,8282.358,2,5,1104.6999999999994,High-Value,1
+1,KB-16600,Ken Brennan,Male,17,Consumer,Houston,Texas,77041,Central,1,3,9,1,983.9220000000001,0,4,291.16,Mid-Value,0
+2,DW-13585,Dorothy Wardle,Female,14,Consumer,Columbus,Ohio,43229,East,260,2,10,1,1204.854,0,3,-268.6,Mid-Value,0
+3,TW-21025,Tamara Willingham,Female,39,Home Office,Scottsdale,Arizona,85254,West,64,3,12,1,5278.825999999998,2,6,736.1899999999999,High-Value,2
+4,SP-20650,Stephanie Phelps,Female,18,Consumer,San Jose,California,95123,West,384,2,15,2,1872.436,0,4,266.16999999999996,Mid-Value,0
+5,TT-21070,Ted Trevino,Male,12,Consumer,Los Angeles,California,90045,West,31,3,14,2,4915.602000000001,2,7,750.3700000000001,High-Value,2
+6,MP-17470,Mark Packer,Male,44,Corporate,New York City,New York,10035,East,424,2,14,2,3206.132000000001,1,5,598.6000000000001,High-Value,2
+7,BS-11755,Bruce Stewart,Male,38,Home Office,Denver,Colorado,80219,West,1,3,14,2,2562.3819999999996,1,6,-115.16,High-Value,2
+8,JB-15925,Joni Blumstein,Male,12,Consumer,Dublin,Ohio,43017,East,737,1,8,1,900.5520000000001,0,2,-289.38,Low-Value,0
+9,DL-13315,Delfina Latchford,Female,12,Consumer,New York City,New York,10024,East,35,3,17,2,1458.2580000000005,0,5,285.77000000000004,High-Value,0
+10,HA-14920,Helen Andreada,Female,40,Home Office,San Francisco,California,94109,West,51,3,18,2,2584.158,1,6,95.54000000000006,High-Value,2
+11,BB-10990,Barry Blumstein,Male,15,Consumer,Inglewood,California,90301,West,105,3,8,1,744.3399999999999,0,4,9.97,Mid-Value,0
+12,KL-16555,Kelly Lampkin,Female,42,Home Office,Colorado Springs,Colorado,80906,West,16,3,22,3,5016.488,2,8,-189.29000000000002,High-Value,2
+13,SH-20395,Shahid Hopkins,Male,15,Consumer,Arlington,Virginia,22204,South,82,3,15,2,2180.718,1,6,-148.02,High-Value,0
+14,SP-20860,Sung Pak,Male,21,Consumer,Philadelphia,Pennsylvania,19143,East,20,3,24,3,4282.9400000000005,1,7,561.7099999999999,High-Value,2
+15,PO-18850,Patrick O'Brill,Male,39,Home Office,Philadelphia,Pennsylvania,19143,East,4,3,22,3,7473.828200000001,2,8,33.849999999999994,High-Value,1
+16,AB-10060,Adam Bellavance,Male,23,Consumer,New York City,New York,10009,East,105,3,18,2,7755.619999999999,2,7,2053.8,High-Value,1
+17,VB-21745,Victoria Brennan,Female,57,Corporate,Columbus,Georgia,31907,South,149,3,10,1,2005.596,1,5,369.55,High-Value,0
+18,MM-18280,Muhammed MacIntyre,Male,21,Consumer,Quincy,Illinois,62301,Central,85,3,12,1,775.414,0,4,57.19000000000001,Mid-Value,0
+19,AS-10285,Alejandro Savely,Male,21,Consumer,San Francisco,California,94109,West,48,3,8,1,3214.236,1,5,352.83000000000004,High-Value,2
+20,NG-18430,Nathan Gelder,Male,12,Consumer,Cincinnati,Ohio,45231,East,19,3,9,1,1395.938,0,4,216.10000000000002,Mid-Value,0
+21,LF-17185,Luke Foster,Male,15,Consumer,Miami,Florida,33180,South,140,3,16,2,3930.509,1,6,-3589.0699999999997,High-Value,2
+22,JE-15745,Joel Eaton,Male,37,Home Office,Louisville,Colorado,80027,West,99,3,23,3,6760.814999999998,2,8,218.41999999999996,High-Value,2
+23,SD-20485,Shirley Daniels,Female,14,Consumer,New Rochelle,New York,10801,East,200,2,21,3,6121.114,2,7,1982.9899999999998,High-Value,2
+24,DB-13060,Dave Brooks,Male,36,Corporate,Lowell,Massachusetts,1852,East,16,3,13,2,4531.646000000001,1,6,470.62,High-Value,2
+25,MT-18070,Michelle Tran,Female,15,Consumer,Los Angeles,California,90045,West,85,3,11,1,1319.4497999999996,0,4,-26.349999999999987,Mid-Value,0
+26,SA-20830,Sue Ann Reed,Male,47,Corporate,Chicago,Illinois,60610,Central,63,3,21,3,4767.341499999999,2,8,606.0899999999999,High-Value,2
+27,LS-17245,Lynn Smith,Female,35,Home Office,Gladstone,Missouri,64118,Central,34,3,12,1,1008.136,0,4,347.35999999999996,Mid-Value,0
+28,MC-17605,Matt Connell,Male,25,Home Office,Detroit,Michigan,48234,Central,112,3,18,2,2258.192,1,6,191.45,High-Value,0
+29,LH-17155,Logan Haushalter,Male,24,Consumer,Los Angeles,California,90032,West,427,2,19,2,1739.6890000000003,0,4,315.0400000000001,Mid-Value,0
+30,BD-11500,Bradley Drucker,Male,41,Corporate,Green Bay,Wisconsin,54302,Central,35,3,10,1,4411.243,1,5,1140.78,High-Value,2
+31,ES-14080,Erin Smith,Female,60,Corporate,Tucson,Arizona,85705,West,102,3,20,2,4657.924000000001,1,6,241.48000000000002,High-Value,2
+32,AS-10135,Adrian Shami,Male,24,Consumer,New York City,New York,10035,East,41,3,3,0,58.82,0,3,21.64,Mid-Value,0
+33,RC-19960,Ryan Crowe,Male,24,Consumer,Jacksonville,Florida,32216,South,51,3,11,1,885.752,0,4,8.63999999999998,Mid-Value,0
+34,JF-15490,Jeremy Farry,Male,20,Consumer,Seattle,Washington,98105,West,121,3,15,2,1082.9180000000001,0,5,-20.250000000000007,High-Value,0
+35,FP-14320,Frank Preis,Male,56,Corporate,Los Angeles,California,90008,West,171,3,14,2,4046.7460000000005,1,6,404.56,High-Value,2
+36,TP-21130,Theone Pippenger,Male,24,Consumer,Philadelphia,Pennsylvania,19134,East,8,3,16,2,4454.056,1,6,1127.7300000000002,High-Value,2
+37,NB-18655,Nona Balk,Female,55,Corporate,Dallas,Texas,75217,Central,42,3,17,2,1972.5990000000004,1,6,114.68999999999997,High-Value,0
+38,RP-19390,Resi Pölking,Male,14,Consumer,Cleveland,Ohio,44105,East,33,3,25,3,5153.084000000001,2,8,461.5500000000001,High-Value,2
+39,RB-19570,Rob Beeghly,Male,24,Consumer,Columbus,Indiana,47201,Central,232,2,9,1,528.546,0,3,75.4,Mid-Value,0
+40,MC-17845,Michael Chen,Male,39,Corporate,Jackson,Mississippi,39212,South,1,3,14,2,3805.714,1,6,697.02,High-Value,2
+41,JO-15550,Jesus Ocampo,Male,28,Home Office,Chester,Pennsylvania,19013,East,215,2,11,1,1090.838,0,3,165.08000000000004,Mid-Value,0
+42,DP-13165,David Philippe,Male,35,Home Office,New York City,New York,10035,East,812,1,4,0,1058.616,0,1,-41.54,Low-Value,0
+43,TH-21550,Tracy Hopkins,Female,18,Consumer,New York City,New York,10035,East,72,3,13,2,4234.096,1,6,-572.8799999999999,High-Value,2
+44,SV-20365,Seth Vernon,Male,18,Consumer,Dover,Delaware,19901,East,101,3,32,3,11470.949999999997,3,9,1194.4399999999998,High-Value,1
+45,EG-13900,Emily Grady,Female,39,Home Office,Oceanside,New York,11572,East,43,3,9,1,1832.02,0,4,102.46000000000005,Mid-Value,0
+46,YC-21895,Yoseph Carroll,Female,39,Corporate,San Francisco,California,94110,West,4,3,8,1,5454.35,2,6,1305.04,High-Value,2
+47,NZ-18565,Nick Zandusky,Male,44,Corporate,San Francisco,California,94110,West,203,2,20,2,2488.3100000000004,1,5,398.92000000000013,High-Value,2
+48,DB-13120,David Bremer,Male,37,Home Office,Rochester,New York,14609,East,19,3,14,2,2973.094,1,6,-1423.78,High-Value,2
+49,HW-14935,Helen Wasserman,Female,22,Consumer,San Diego,California,92105,West,134,3,20,2,9300.253999999997,2,7,2163.27,High-Value,1
+50,GM-14440,Gary McGarr,Male,13,Consumer,San Francisco,California,94122,West,142,3,11,1,3582.8199999999997,1,5,345.96999999999997,High-Value,2
+51,AA-10375,Allen Armold,Male,24,Consumer,Omaha,Nebraska,68104,Central,48,3,15,2,1056.39,0,5,276.19999999999993,High-Value,0
+52,ZC-21910,Zuschuss Carroll,Male,19,Consumer,Edmonds,Washington,98026,West,54,3,31,3,8025.707,2,8,-1040.03,High-Value,1
+53,BW-11110,Bart Watters,Male,15,Consumer,Milwaukee,Wisconsin,53209,Central,121,3,17,2,4750.358,2,7,918.86,High-Value,2
+54,EM-14095,Eudokia Martin,Female,17,Consumer,Los Angeles,California,90036,West,143,3,10,1,1041.042,0,4,239.23,Mid-Value,0
+55,LS-16945,Linda Southworth,Female,19,Consumer,Philadelphia,Pennsylvania,19140,East,29,3,14,2,2845.27,1,6,-323.06000000000006,High-Value,2
+56,PK-18910,Paul Knutson,Male,56,Corporate,Philadelphia,Pennsylvania,19143,East,661,1,3,0,1441.152,0,1,-799.81,Low-Value,0
+57,TB-21520,Tracy Blumstein,Female,24,Consumer,Concord,New Hampshire,3301,East,107,3,20,2,4737.486000000001,2,7,-1608.35,High-Value,2
+58,PM-19135,Peter McVee,Male,16,Consumer,Detroit,Michigan,48227,Central,110,3,7,1,4115.661999999999,1,5,525.8600000000001,High-Value,2
+59,PC-18745,Pamela Coakley,Female,38,Home Office,San Francisco,California,94122,West,2,3,5,0,1832.0639999999999,0,3,271.58000000000004,Mid-Value,0
+60,JR-16210,Justin Ritter,Male,23,Consumer,Springfield,Ohio,45503,East,33,3,10,1,2201.6859999999997,1,5,450.17,High-Value,0
+61,TD-20995,Tamara Dahlen,Female,21,Consumer,Garland,Texas,75043,Central,37,3,16,2,1434.548,0,5,84.28000000000003,High-Value,0
+62,BM-11650,Brian Moss,Male,20,Consumer,Milwaukee,Wisconsin,53209,Central,33,3,29,3,7294.185000000001,2,8,2196.8299999999995,High-Value,1
+63,JM-15535,Jessica Myrick,Female,20,Consumer,Philadelphia,Pennsylvania,19143,East,21,3,10,1,1733.4430000000002,0,4,355.63,Mid-Value,0
+64,AB-10165,Alan Barnes,Male,17,Consumer,Toledo,Ohio,43615,East,106,3,14,2,1113.838,0,5,218.92,High-Value,0
+65,RA-19885,Ruben Ausman,Male,29,Home Office,Farmington,New Mexico,87401,West,43,3,15,2,3832.3140000000003,1,6,1292.2700000000002,High-Value,2
+66,KC-16255,Karen Carlisle,Female,19,Consumer,San Francisco,California,94110,West,407,2,10,1,2120.954,1,4,845.9200000000001,Mid-Value,0
+67,CA-12775,Cynthia Arntzen,Female,48,Corporate,Mesa,Arizona,85204,West,25,3,17,2,3041.5659999999993,1,6,201.29,High-Value,2
+68,CV-12805,Cynthia Voltz,Female,21,Consumer,San Francisco,California,94110,West,5,3,19,2,2370.3136000000004,1,6,94.35999999999999,High-Value,0
+69,BS-11800,Bryan Spruell,Male,18,Consumer,New York City,New York,10011,East,117,3,8,1,949.43,0,4,194.05,Mid-Value,0
+70,RW-19690,Robert Waldorf,Male,19,Consumer,Wilmington,North Carolina,28403,South,20,3,15,2,3495.6460000000006,1,6,706.45,High-Value,2
+71,TS-21610,Troy Staebel,Male,24,Consumer,New York City,New York,10024,East,24,3,11,1,2820.424,1,5,-298.8,High-Value,2
+72,RF-19735,Roland Fjeld,Male,22,Consumer,San Jose,California,95123,West,154,3,14,2,2341.2960000000003,1,6,711.43,High-Value,0
+73,MT-17815,Meg Tillman,Female,15,Consumer,Scottsdale,Arizona,85254,West,49,3,10,1,2890.1389999999997,1,5,507.72,High-Value,2
+74,AT-10735,Annie Thurman,Female,25,Consumer,Chicago,Illinois,60653,Central,13,3,16,2,3831.8639999999996,1,6,972.7199999999999,High-Value,2
+75,VG-21790,Vivek Gonzalez,Female,25,Home Office,San Diego,California,92037,West,145,3,8,1,846.01,0,4,143.03000000000003,Mid-Value,0
+76,HR-14770,Hallie Redmond,Male,23,Consumer,Los Angeles,California,90045,West,13,3,13,2,1299.2879999999998,0,5,184.98,High-Value,0
+77,AG-10390,Allen Goldenen,Female,12,Consumer,Cincinnati,Ohio,45231,East,174,3,8,1,200.945,0,4,67.47,Mid-Value,0
+78,JJ-15445,Jennifer Jackson,Male,19,Consumer,Los Angeles,California,90004,West,562,1,6,1,709.178,0,2,200.16,Low-Value,0
+79,JH-15430,Jennifer Halladay,Female,14,Consumer,Burlington,North Carolina,27217,South,5,3,7,1,309.281,0,4,-26.260000000000005,Mid-Value,0
+80,NS-18640,Noel Staavos,Male,24,Consumer,Chicago,Illinois,60610,Central,114,3,26,3,2964.823,1,7,-240.36,High-Value,2
+81,DG-13300,Deirdre Greer,Male,31,Home Office,Philadelphia,Pennsylvania,19134,East,32,3,8,1,3195.818,1,5,561.97,High-Value,2
+82,BD-11620,Brian DeCherney,Male,28,Home Office,San Francisco,California,94122,West,69,3,8,1,1538.11,0,4,205.37,Mid-Value,0
+83,CC-12100,Chad Cunningham,Male,24,Consumer,Columbus,Indiana,47201,Central,457,2,13,2,1770.945,0,4,205.79999999999995,Mid-Value,0
+84,PV-18985,Paul Van Hugh,Male,16,Consumer,San Francisco,California,94122,West,57,3,13,2,2876.0460000000003,1,6,433.44,High-Value,2
+85,GG-14650,Greg Guthrie,Male,23,Consumer,Antioch,California,94509,West,43,3,24,3,2224.0000000000005,1,7,9.090000000000003,High-Value,0
+86,PS-19045,Penelope Sewall,Female,29,Home Office,Harrisonburg,Virginia,22801,South,147,3,13,2,6843.634,2,7,1741.6399999999999,High-Value,1
+87,DP-13105,Dave Poirier,Male,19,Consumer,New York City,New York,10035,East,6,3,14,2,2215.002,1,6,561.5699999999999,High-Value,0
+88,LH-16750,Larry Hughes,Male,35,Home Office,Charlotte,North Carolina,28205,South,249,2,3,0,287.426,0,2,11.530000000000001,Low-Value,0
+89,BM-11140,Becky Martin,Male,33,Home Office,New York City,New York,10024,East,307,2,16,2,11789.630000000001,3,7,-1662.6700000000005,High-Value,1
+90,BG-11695,Brooke Gillingham,Female,47,Corporate,Cincinnati,Ohio,45231,East,36,3,8,1,1874.1720000000003,0,4,106.49,Mid-Value,0
+91,CC-12220,Chris Cortes,Male,13,Consumer,La Porte,Indiana,46350,Central,44,3,22,3,3913.4179999999997,1,7,391.37,High-Value,2
+92,TR-21325,Toby Ritter,Male,39,Home Office,Cedar Rapids,Iowa,52402,Central,193,2,7,1,675.9420000000001,0,3,220.16,Mid-Value,0
+93,CC-12430,Chuck Clark,Male,18,Consumer,San Francisco,California,94122,West,0,3,19,2,2870.0499999999997,1,6,423.5300000000001,High-Value,2
+94,AA-10315,Alex Avila,Male,23,Consumer,San Francisco,California,94109,West,184,2,11,1,5563.56,2,5,-363.8700000000001,High-Value,2
+95,RC-19825,Roy Collins,Male,21,Consumer,Pasadena,California,91104,West,369,2,10,1,966.4089999999999,0,3,62.88999999999999,Mid-Value,0
+96,EB-14170,Evan Bailliet,Female,17,Consumer,Wilmington,North Carolina,28403,South,111,3,7,1,1186.326,0,4,280.57,Mid-Value,0
+97,LE-16810,Laurel Elliston,Female,17,Consumer,Chicago,Illinois,60653,Central,109,3,9,1,1469.4500000000003,0,4,159.45000000000002,Mid-Value,0
+98,CP-12085,Cathy Prescott,Female,12,Consumer,Norwich,Connecticut,6360,East,111,3,14,2,5402.253999999999,2,7,425.03,High-Value,2
+99,AS-10045,Aaron Smayling,Male,47,Corporate,Jacksonville,North Carolina,28540,South,265,2,10,1,3050.6920000000005,1,4,-257.14,Mid-Value,2
+100,ND-18370,Natalie DeCherney,Female,16,Consumer,Louisville,Kentucky,40214,South,70,3,18,2,4326.139,1,6,349.84000000000003,High-Value,2
+101,LB-16735,Larry Blacks,Male,18,Consumer,Fort Worth,Texas,76106,Central,19,3,3,0,50.188,0,3,17.85,Mid-Value,0
+102,AB-10600,Ann Blume,Female,19,Consumer,Tucson,Arizona,85705,West,80,3,8,1,1515.862,0,4,-277.95,Mid-Value,0
+103,SZ-20035,Sam Zeldin,Male,31,Home Office,Pico Rivera,California,90660,West,35,3,20,2,3625.3289999999997,1,6,362.03,High-Value,2
+104,YS-21880,Yana Sorensen,Female,24,Consumer,Burlington,North Carolina,27217,South,9,3,12,1,6720.4439999999995,2,6,1777.71,High-Value,1
+105,NC-18340,Nat Carroll,Female,22,Consumer,New York City,New York,10035,East,224,2,17,2,2461.4040000000005,1,5,579.6000000000001,High-Value,2
+106,SV-20815,Stuart Van,Male,59,Corporate,Houston,Texas,77041,Central,76,3,6,1,1271.0900000000001,0,4,198.43999999999997,Mid-Value,0
+107,PW-19030,Pauline Webber,Female,15,Consumer,Richmond,Kentucky,40475,South,46,3,13,2,3454.916,1,6,803.32,High-Value,2
+108,TS-21160,Theresa Swint,Female,24,Consumer,Philadelphia,Pennsylvania,19134,East,504,1,17,2,2163.6240000000003,1,4,257.08,Mid-Value,0
+109,TS-21085,Thais Sissman,Male,24,Consumer,Phoenix,Arizona,85023,West,182,3,2,0,4.833,0,3,-4.72,Mid-Value,0
+110,MC-17425,Mark Cousins,Male,19,Consumer,Mobile,Alabama,36608,South,399,2,10,1,4432.138,1,4,1801.1999999999998,Mid-Value,2
+111,LC-16930,Linda Cazamias,Female,26,Home Office,Pasadena,Texas,77506,Central,41,3,14,2,4492.946000000001,1,6,285.88,High-Value,2
+112,KD-16495,Keith Dawkins,Female,16,Consumer,New York City,New York,10009,East,112,3,28,3,8181.255999999999,2,8,3036.129999999998,High-Value,1
+113,KD-16345,Katherine Ducich,Female,24,Consumer,Westminster,California,92683,West,41,3,10,1,1888.964,0,4,327.29,Mid-Value,0
+114,NK-18490,Neil Knudson,Male,12,Consumer,San Francisco,California,94122,West,20,3,11,1,572.048,0,4,119.83,Mid-Value,0
+115,EP-13915,Emily Phan,Female,58,Corporate,New York City,New York,10011,East,12,3,31,3,5478.0608,2,8,138.81999999999996,High-Value,2
+116,JS-15940,Joni Sundaresam,Male,16,Consumer,Appleton,Wisconsin,54915,Central,463,2,8,1,469.16900000000004,0,3,-330.63000000000005,Mid-Value,0
+117,CS-12400,Christopher Schild,Male,25,Consumer,Seattle,Washington,98115,West,2,3,14,2,3651.8585000000003,1,6,-345.80000000000007,High-Value,2
+118,AW-10840,Anthony Witt,Male,13,Consumer,Allen,Texas,75002,Central,79,3,8,1,649.376,0,4,64.18,Mid-Value,0
+119,SC-20095,Sanjit Chand,Male,37,Corporate,Los Angeles,California,90004,West,349,2,22,3,14142.333999999999,3,8,5756.02,High-Value,1
+120,MC-18100,Mick Crebagga,Male,15,Consumer,El Paso,Texas,79907,Central,41,3,19,2,2218.9799999999996,1,6,-69.27000000000001,High-Value,0
+121,DL-12865,Dan Lawera,Male,35,Home Office,New York City,New York,10011,East,100,3,14,2,1503.112,0,5,320.14,High-Value,0
+122,NP-18325,Naresj Patel,Female,25,Home Office,New York City,New York,10024,East,232,2,21,3,5529.62,2,7,1207.7100000000003,High-Value,2
+123,DP-13390,Dennis Pardue,Female,41,Corporate,Peoria,Illinois,61604,Central,212,2,14,2,5480.724,2,6,1569.23,High-Value,2
+124,MY-17380,Maribeth Yedwab,Female,58,Corporate,New York City,New York,10011,East,36,3,13,2,2254.285,1,6,315.14000000000004,High-Value,0
+125,FH-14365,Fred Hopkins,Male,55,Corporate,Seattle,Washington,98115,West,5,3,13,2,6987.195999999998,2,7,2048.4799999999996,High-Value,1
+126,VM-21685,Valerie Mitchum,Female,26,Home Office,Philadelphia,Pennsylvania,19140,East,167,3,12,1,2454.866,1,5,512.34,High-Value,2
+127,CD-12280,Christina DeMoss,Female,20,Consumer,Seattle,Washington,98105,West,42,3,13,2,1205.584,0,5,231.91,High-Value,0
+128,HL-15040,Hunter Lopez,Male,24,Consumer,Milwaukee,Wisconsin,53209,Central,43,3,11,1,12873.297999999999,3,7,5622.23,High-Value,1
+129,RB-19645,Robert Barroso,Male,44,Corporate,North Las Vegas,Nevada,89031,West,648,1,7,1,221.084,0,2,71.67999999999999,Low-Value,0
+130,SW-20455,Shaun Weien,Male,16,Consumer,Suffolk,Virginia,23434,South,162,3,9,1,2921.544,1,5,792.64,High-Value,2
+131,DK-12835,Damala Kotsonis,Male,49,Corporate,Philadelphia,Pennsylvania,19143,East,70,3,27,3,3256.48,1,7,876.3299999999999,High-Value,2
+132,JK-15370,Jay Kimmel,Male,12,Consumer,Philadelphia,Pennsylvania,19143,East,44,3,17,2,2709.632,1,6,328.19000000000005,High-Value,2
+133,BM-11785,Bryan Mills,Male,24,Consumer,Rochester,New York,14609,East,218,2,14,2,1338.842,0,4,134.21999999999997,Mid-Value,0
+134,JW-15955,Joni Wasserman,Male,13,Consumer,Oakland,California,94601,West,5,3,11,1,1244.0859999999998,0,4,-30.479999999999993,Mid-Value,0
+135,VW-21775,Victoria Wilson,Female,59,Corporate,San Francisco,California,94122,West,43,3,18,2,6134.0380000000005,2,7,-877.5600000000003,High-Value,2
+136,SL-20155,Sara Luxemburg,Female,41,Home Office,Houston,Texas,77095,Central,70,3,9,1,3053.012,1,5,526.38,High-Value,2
+137,MR-17545,Mathew Reese,Male,43,Home Office,New York City,New York,10024,East,125,3,6,1,639.178,0,4,161.74,Mid-Value,0
+138,GK-14620,Grace Kelly,Female,60,Corporate,Los Angeles,California,90049,West,112,3,14,2,6497.2699999999995,2,7,1446.3500000000001,High-Value,2
+139,PB-19210,Phillip Breyer,Male,22,Consumer,Tulsa,Oklahoma,74133,Central,423,2,2,0,132.738,0,2,21.7,Low-Value,0
+140,RM-19375,Raymond Messe,Male,25,Consumer,Meriden,Connecticut,6450,East,345,2,9,1,1453.474,0,3,391.76000000000005,Mid-Value,0
+141,JB-15400,Jennifer Braxton,Female,40,Home Office,Bristol,Connecticut,6010,East,7,3,16,2,1791.605,0,5,152.75000000000003,High-Value,0
+142,AH-10075,Adam Hart,Male,32,Home Office,Henderson,Nevada,89015,West,34,3,20,2,3250.3369999999995,1,6,278.5,High-Value,2
+143,EH-14005,Erica Hernandez,Female,25,Consumer,Hialeah,Florida,33012,South,2,3,11,1,1219.5300000000002,0,4,-96.04000000000003,Mid-Value,0
+144,AS-10090,Adam Shillingsburg,Male,19,Consumer,Charlottesville,Virginia,22901,South,105,3,25,3,3255.3100000000004,1,7,60.029999999999966,High-Value,2
+145,AC-10450,Amy Cox,Female,43,Corporate,Minneapolis,Minnesota,55407,Central,11,3,9,1,5527.846,2,6,1364.3099999999997,High-Value,2
+146,DW-13480,Dianna Wilson,Female,21,Consumer,Detroit,Michigan,48205,Central,217,2,11,1,5271.628,2,5,1348.35,High-Value,2
+147,MD-17860,Michael Dominguez,Male,57,Corporate,Indianapolis,Indiana,46203,Central,36,3,8,1,1204.91,0,4,-6.330000000000002,Mid-Value,0
+148,RW-19540,Rick Wilson,Male,34,Home Office,Los Angeles,California,90008,West,123,3,23,3,7397.401000000001,2,8,1583.54,High-Value,1
+149,EH-13990,Erica Hackney,Female,25,Home Office,Roswell,Georgia,30076,South,405,2,8,1,825.9499999999999,0,3,149.87,Mid-Value,0
+150,EH-13765,Edward Hooks,Male,45,Corporate,Watertown,New York,13601,East,135,3,32,3,10310.880000000001,3,9,1391.19,High-Value,1
+151,RH-19495,Rick Hansen,Male,19,Consumer,Denver,Colorado,80219,West,22,3,8,1,3621.3759999999997,1,5,562.9799999999999,High-Value,2
+152,CB-12415,Christy Brittain,Female,45,Corporate,Columbus,Ohio,43229,East,44,3,12,1,1949.2,1,5,268.40000000000003,High-Value,0
+153,ND-18460,Neil Ducich,Male,21,Consumer,Chesapeake,Virginia,23320,South,85,3,8,1,2893.455,1,5,442.64,High-Value,2
+154,CM-12190,Charlotte Melton,Female,43,Home Office,Chicago,Illinois,60623,Central,8,3,7,1,1475.144,0,4,90.71000000000002,Mid-Value,0
+155,RH-19510,Rick Huthwaite,Male,38,Corporate,Providence,Rhode Island,2908,East,453,2,12,1,6979.179999999999,2,5,1289.0500000000002,High-Value,1
+156,MC-17275,Marc Crier,Male,37,Home Office,Seattle,Washington,98103,West,76,3,13,2,2725.9820000000004,1,6,459.32,High-Value,2
+157,CK-12595,Clytie Kelty,Female,39,Home Office,Philadelphia,Pennsylvania,19134,East,43,3,25,3,2372.7500000000005,1,7,493.09,High-Value,0
+158,BF-11080,Bart Folk,Male,19,Consumer,Baltimore,Maryland,21215,East,21,3,6,1,272.95,0,4,110.92999999999999,Mid-Value,0
+159,RW-19630,Rob Williams,Male,20,Consumer,Seattle,Washington,98105,West,261,2,16,2,3279.7459999999996,1,5,696.65,High-Value,2
+160,DV-13465,Dianna Vittorini,Female,45,Corporate,Minneapolis,Minnesota,55407,Central,54,3,15,2,3341.5869999999995,1,6,351.51,High-Value,2
+161,IL-15100,Ivan Liston,Male,25,Consumer,San Francisco,California,94122,West,83,3,14,2,5040.736,2,7,1120.93,High-Value,2
+162,NS-18505,Neola Schneider,Female,24,Consumer,San Jose,California,95123,West,6,3,15,2,2575.863,1,6,-15.409999999999998,High-Value,2
+163,HG-14965,Henry Goldwyn,Male,22,Consumer,San Francisco,California,94110,West,171,3,17,2,3247.6419999999994,1,6,-2800.8599999999997,High-Value,2
+164,MV-17485,Mark Van Huff,Male,53,Corporate,Arlington,Virginia,22204,South,36,3,15,2,1560.0500000000002,0,5,185.40999999999997,High-Value,0
+165,JK-15625,Jim Karlsson,Male,18,Consumer,Seattle,Washington,98115,West,61,3,12,1,3760.028,1,5,749.5400000000001,High-Value,2
+166,FM-14215,Filia McAdams,Female,14,Consumer,Middletown,Connecticut,6457,East,7,3,15,2,2456.6379999999995,1,6,248.28,High-Value,2
+167,PJ-18835,Patrick Jones,Male,15,Consumer,Murfreesboro,Tennessee,37130,South,39,3,13,2,1220.0900000000001,0,5,441.13999999999993,High-Value,0
+168,BW-11200,Ben Wallace,Male,13,Consumer,Los Angeles,California,90032,West,85,3,10,1,1738.4060000000002,0,4,245.50000000000006,Mid-Value,0
+169,RS-19420,Ricardo Sperren,Male,45,Corporate,Seattle,Washington,98115,West,76,3,9,1,3221.29,1,5,633.45,High-Value,2
+170,BP-11185,Ben Peterman,Male,41,Home Office,Chicago,Illinois,60623,Central,1,3,18,2,3675.8610000000003,1,6,360.09000000000003,High-Value,2
+171,MS-17980,Michael Stewart,Male,12,Consumer,Houston,Texas,77041,Central,262,2,11,1,855.116,0,3,53.33,Mid-Value,0
+172,BC-11125,Becky Castell,Female,33,Home Office,Peoria,Arizona,85345,West,54,3,18,2,2933.6759999999995,1,6,249.61,High-Value,2
+173,KN-16705,Kristina Nunn,Female,13,Consumer,Fort Collins,Colorado,80525,West,54,3,15,2,2280.5800000000004,1,6,327.96999999999997,High-Value,0
+174,GM-14455,Gary Mitchum,Male,12,Consumer,Franklin,Massachusetts,2038,East,16,3,12,1,3078.6240000000003,1,5,791.2900000000002,High-Value,2
+175,SC-20260,Scott Cohen,Male,40,Corporate,San Francisco,California,94122,West,187,2,18,2,3729.793,1,5,667.46,High-Value,2
+176,MN-17935,Michael Nguyen,Male,16,Consumer,Clinton,Maryland,20735,East,34,3,10,1,2477.946,1,5,288.21999999999997,High-Value,2
+177,CV-12295,Christina VanderZanden,Female,25,Home Office,Fresno,California,93727,West,254,2,13,2,2830.628,1,5,492.09000000000003,High-Value,2
+178,DK-13375,Dennis Kane,Female,14,Consumer,San Diego,California,92105,West,19,3,23,3,3318.4859999999994,1,7,374.55000000000007,High-Value,2
+179,BE-11335,Bill Eplett,Male,43,Home Office,San Francisco,California,94122,West,166,3,9,1,4204.6759999999995,1,5,1487.5900000000001,High-Value,2
+180,PF-19225,Phillip Flathmann,Male,34,Home Office,Los Angeles,California,90032,West,174,3,10,1,2206.1279999999997,1,5,590.6999999999999,High-Value,0
+181,DC-12850,Dan Campbell,Male,20,Consumer,Miami,Florida,33178,South,37,3,18,2,3336.1680000000006,1,6,-1445.44,High-Value,2
+182,LS-17200,Luke Schmidt,Male,20,Consumer,Skokie,Illinois,60076,Central,96,3,14,2,1010.2560000000001,0,5,241.39000000000001,High-Value,0
+183,KW-16570,Kelly Williams,Female,30,Home Office,Monroe,Louisiana,71203,South,771,1,5,0,449.09600000000006,0,1,107.73,Low-Value,0
+184,LO-17170,Lori Olson,Female,12,Consumer,La Quinta,California,92253,West,2,3,9,1,644.3499999999999,0,4,147.85999999999999,Mid-Value,0
+185,BD-11635,Brian Derr,Male,18,Consumer,Bowling Green,Kentucky,42104,South,9,3,5,0,582.6459999999998,0,3,141.03999999999996,Mid-Value,0
+186,TA-21385,Tom Ashbrook,Male,42,Corporate,New York City,New York,10024,East,69,3,10,1,14595.62,3,7,4703.0,High-Value,1
+187,SB-20290,Sean Braxton,Male,21,Consumer,Springfield,Ohio,45503,East,47,3,17,2,8057.890999999999,2,7,-2086.85,High-Value,1
+188,KA-16525,Kelly Andreada,Female,32,Home Office,Aurora,Illinois,60505,Central,36,3,11,1,1519.506,0,4,234.31,Mid-Value,0
+189,CL-12700,Craig Leslie,Female,18,Consumer,Springfield,Missouri,65807,Central,105,3,8,1,2353.5860000000002,1,5,227.5,High-Value,0
+190,HF-14995,Herbert Flentye,Male,21,Consumer,Memphis,Tennessee,38109,South,109,3,19,2,2533.1639999999998,1,6,-16.36999999999999,High-Value,2
+191,RA-19285,Ralph Arnett,Male,13,Consumer,Peoria,Illinois,61604,Central,5,3,17,2,2617.906,1,6,543.29,High-Value,2
+192,RA-19915,Russell Applegate,Male,23,Consumer,Chicago,Illinois,60653,Central,12,3,22,3,4793.543000000001,2,8,298.73000000000013,High-Value,2
+193,BE-11410,Bobby Elias,Male,15,Consumer,Lancaster,Ohio,43130,East,98,3,5,0,2261.438,1,4,755.1099999999999,Mid-Value,0
+194,SK-19990,Sally Knutson,Female,21,Consumer,Toledo,Ohio,43615,East,8,3,5,0,883.4090000000001,0,3,167.69,Mid-Value,0
+195,EB-13750,Edward Becker,Male,38,Corporate,Hoover,Alabama,35244,South,35,3,20,2,3236.3140000000003,1,6,-83.19000000000001,High-Value,2
+196,Dp-13240,Dean percer,Male,22,Consumer,Murray,Utah,84107,West,106,3,29,3,7198.761,2,8,327.96999999999997,High-Value,1
+197,BT-11680,Brian Thompson,Male,18,Consumer,Fort Lauderdale,Florida,33311,South,40,3,20,2,3196.7520000000004,1,6,446.37,High-Value,2
+198,TC-21295,Toby Carlisle,Male,25,Consumer,New York City,New York,10035,East,46,3,16,2,4266.812,1,6,604.2700000000001,High-Value,2
+199,CD-12790,Cynthia Delaney,Female,43,Corporate,Los Angeles,California,90036,West,399,2,15,2,1860.732,0,4,403.45,Mid-Value,0
+200,JS-15595,Jill Stevenson,Male,35,Corporate,Miami,Florida,33180,South,324,2,8,1,1417.654,0,3,-178.05999999999997,Mid-Value,0
+201,GA-14725,Guy Armstrong,Male,15,Consumer,Salem,Oregon,97301,West,5,3,22,3,1398.3820000000003,0,6,132.75,High-Value,0
+202,DM-13015,Darrin Martin,Male,14,Consumer,Encinitas,California,92024,West,68,3,20,2,6345.103,2,7,1672.81,High-Value,2
+203,MJ-17740,Max Jones,Male,41,Home Office,Lancaster,Ohio,43130,East,57,3,15,2,6320.746000000001,2,7,1051.34,High-Value,2
+204,XP-21865,Xylona Preis,Female,24,Consumer,Everett,Massachusetts,2149,East,43,3,28,3,2374.658,1,7,619.9300000000001,High-Value,0
+205,DJ-13510,Don Jones,Male,36,Corporate,San Diego,California,92037,West,19,3,13,2,2501.688,1,6,344.36,High-Value,2
+206,SE-20110,Sanjit Engle,Male,12,Consumer,Dallas,Texas,75220,Central,9,3,19,2,12209.438000000004,3,8,2648.5699999999997,High-Value,1
+207,JM-16195,Justin MacKendrick,Male,18,Consumer,Watertown,New York,13601,East,22,3,19,2,2833.9259999999995,1,6,752.9200000000002,High-Value,2
+208,LH-17020,Lisa Hazard,Female,24,Consumer,San Francisco,California,94122,West,239,2,6,1,318.23900000000003,0,3,-245.55,Mid-Value,0
+209,MG-17875,Michael Grace,Male,41,Home Office,New York City,New York,10011,East,235,2,7,1,1242.833,0,3,-472.46999999999997,Mid-Value,0
+210,CR-12730,Craig Reiter,Female,49,Corporate,New York City,New York,10009,East,78,3,6,1,1600.5499999999997,0,4,305.32,Mid-Value,0
+211,JG-15160,James Galang,Male,35,Home Office,Murray,Kentucky,42071,South,1,3,18,2,6366.392,2,7,1413.66,High-Value,2
+212,TC-21475,Tony Chapman,Male,36,Corporate,Columbus,Georgia,31907,South,153,3,11,1,1244.976,0,4,116.2,Mid-Value,0
+213,JD-16150,Justin Deggeller,Male,16,Consumer,Newark,Delaware,19711,East,41,3,17,2,8828.0305,2,7,1618.6,High-Value,1
+214,LR-16915,Lena Radford,Female,35,Home Office,Los Angeles,California,90045,West,262,2,16,2,5142.892000000001,2,6,532.69,High-Value,2
+215,KB-16405,Katrina Bavinger,Female,23,Consumer,Apple Valley,California,92307,West,265,2,9,1,908.8209999999999,0,3,273.88,Mid-Value,0
+216,JE-15610,Jim Epp,Male,36,Corporate,Lakeland,Florida,33801,South,19,3,20,2,7754.976,2,7,1620.21,High-Value,1
+217,JP-15460,Jennifer Patt,Female,12,Consumer,Oceanside,New York,11572,East,37,3,15,2,1669.1349999999998,0,5,427.64,High-Value,0
+218,JL-15850,John Lucas,Male,44,Home Office,New York City,New York,10035,East,614,1,11,1,2725.256,1,3,777.3000000000001,Mid-Value,2
+219,RD-19810,Ross DeVincentis,Female,20,Consumer,New York City,New York,10035,East,14,3,16,2,1137.6159999999998,0,5,315.45000000000005,High-Value,0
+220,NF-18385,Natalie Fritzler,Female,54,Corporate,Newark,Ohio,43055,East,20,3,14,2,8322.826000000001,2,7,-1699.4599999999998,High-Value,1
+221,DB-13210,Dean Braden,Male,15,Consumer,Jacksonville,North Carolina,28540,South,9,3,21,3,2332.577,1,7,166.05,High-Value,0
+222,KW-16435,Katrina Willman,Female,17,Consumer,Lansing,Michigan,48911,Central,96,3,10,1,4416.52,1,5,1755.04,High-Value,2
+223,TC-20980,Tamara Chand,Female,13,Consumer,Houston,Texas,77041,Central,399,2,12,1,19052.217999999997,3,6,8979.92,High-Value,1
+224,JL-15130,Jack Lebron,Male,18,Consumer,Houston,Texas,77036,Central,8,3,12,1,1214.956,0,4,-210.99,Mid-Value,0
+225,CK-12760,Cyma Kinney,Female,19,Consumer,Arlington,Virginia,22204,South,111,3,14,2,1582.1090000000002,0,5,-340.53999999999996,High-Value,0
+226,BG-11740,Bruce Geld,Male,21,Consumer,Philadelphia,Pennsylvania,19120,East,257,2,7,1,1006.3560000000001,0,3,118.35000000000001,Mid-Value,0
+227,CM-11815,Candace McMahon,Female,20,Consumer,Pasadena,Texas,77506,Central,88,3,10,1,1673.8880000000001,0,4,213.25,Mid-Value,0
+228,TS-21205,Thomas Seio,Male,22,Consumer,San Francisco,California,94109,West,198,2,19,2,5371.09,2,6,859.8999999999999,High-Value,2
+229,RD-19585,Rob Dowd,Male,50,Corporate,Temecula,California,92592,West,298,2,19,2,2912.8940000000002,1,5,733.9199999999997,High-Value,2
+230,KH-16510,Keith Herrera,Female,15,Consumer,Dallas,Texas,75081,Central,63,3,23,3,5952.859000000001,2,8,653.6199999999999,High-Value,2
+231,CM-12655,Corinna Mitchell,Female,49,Corporate,New York City,New York,10035,East,293,2,10,1,6339.5576,2,5,1571.72,High-Value,2
+232,PR-18880,Patrick Ryan,Male,18,Consumer,Oakland,California,94601,West,36,3,12,1,1840.1779999999999,0,4,246.20999999999998,Mid-Value,0
+233,AH-10195,Alan Haines,Male,22,Consumer,Chicago,Illinois,60623,Central,128,3,8,1,1587.452,0,4,-381.34,Mid-Value,0
+234,LC-17050,Liz Carlisle,Female,27,Home Office,Mission Viejo,California,92691,West,112,3,9,1,2095.064,1,5,84.31999999999998,High-Value,0
+235,CS-12490,Cindy Schnelling,Female,28,Home Office,Conroe,Texas,77301,Central,387,2,9,1,1077.2285,0,3,-305.11000000000007,Mid-Value,0
+236,SP-20620,Stefania Perrino,Female,14,Consumer,Tampa,Florida,33614,South,47,3,24,3,5440.3189999999995,2,8,-276.43000000000006,High-Value,2
+237,EH-14185,Evan Henry,Female,18,Consumer,Pasadena,Texas,77506,Central,105,3,8,1,923.884,0,4,239.83000000000004,Mid-Value,0
+238,LA-16780,Laura Armstrong,Female,16,Consumer,Tinley Park,Illinois,60477,Central,154,3,26,3,8673.222000000002,2,8,2056.13,High-Value,1
+239,NM-18520,Neoma Murray,Female,24,Consumer,Chicago,Illinois,60610,Central,244,2,15,2,2161.9790000000003,1,5,785.0500000000002,High-Value,0
+240,AH-10690,Anna Häberlin,Female,13,Consumer,New York City,New York,10024,East,410,2,23,3,7888.2940000000035,2,7,1293.0,High-Value,1
+241,PJ-19015,Pauline Johnson,Male,21,Consumer,Mobile,Alabama,36608,South,134,3,10,1,1824.2340000000002,0,4,682.2099999999999,Mid-Value,0
+242,CC-12610,Corey Catlett,Female,49,Corporate,Springfield,Virginia,22153,South,34,3,12,1,2540.6310000000003,1,5,328.15000000000003,High-Value,2
+243,GT-14755,Guy Thornton,Male,21,Consumer,Los Angeles,California,90049,West,34,3,7,1,226.436,0,4,-7.540000000000002,Mid-Value,0
+244,SC-20770,Stewart Carmichael,Male,51,Corporate,San Antonio,Texas,78207,Central,41,3,21,3,4492.656999999999,1,7,-677.5999999999999,High-Value,2
+245,RS-19765,Roland Schwarz,Male,60,Corporate,Los Angeles,California,90045,West,36,3,14,2,4159.7699999999995,1,6,1204.79,High-Value,2
+246,JG-15310,Jason Gross,Male,19,Consumer,Odessa,Texas,79762,Central,2,3,11,1,2240.58,1,5,1.0200000000000031,High-Value,0
+247,BT-11395,Bill Tyler,Male,16,Consumer,Altoona,Pennsylvania,16602,East,302,2,10,1,2186.6130000000003,1,4,256.40000000000003,Mid-Value,0
+248,TS-21370,Todd Sumrall,Male,24,Consumer,Los Angeles,California,90049,West,36,3,15,2,11891.751,3,8,2369.98,High-Value,1
+249,JG-15805,John Grady,Male,24,Consumer,Decatur,Illinois,62521,Central,223,2,9,1,1507.018,0,3,205.5,Mid-Value,0
+250,AB-10105,Adrian Barton,Male,37,Corporate,Pearland,Texas,77581,Central,41,3,20,2,14473.570999999996,3,8,5440.009999999999,High-Value,1
+251,JS-15880,John Stevenson,Male,39,Home Office,Harlingen,Texas,78550,Central,393,2,9,1,3868.02,1,4,563.6500000000001,Mid-Value,2
+252,ED-13885,Emily Ducich,Female,18,Consumer,Los Angeles,California,90045,West,135,3,14,2,3484.92,1,6,667.4499999999999,High-Value,2
+253,EH-14125,Eugene Hildebrand,Female,21,Consumer,Colorado Springs,Colorado,80906,West,152,3,18,2,3082.653,1,6,92.57,High-Value,2
+254,EB-13930,Eric Barreto,Male,25,Consumer,Richmond,Virginia,23223,South,161,3,7,1,944.6000000000001,0,4,-0.5899999999999892,Mid-Value,0
+255,CC-12475,Cindy Chapman,Female,21,Consumer,Philadelphia,Pennsylvania,19143,East,39,3,13,2,1659.438,0,5,152.74999999999997,High-Value,0
+256,JO-15145,Jack O'Briant,Male,60,Corporate,San Francisco,California,94110,West,64,3,13,2,3254.949,1,6,580.46,High-Value,2
+257,SF-20965,Sylvia Foulston,Female,12,Consumer,Bedford,Texas,76021,Central,19,3,17,2,3336.5350000000008,1,6,535.34,High-Value,2
+258,KE-16420,Katrina Edelman,Female,12,Consumer,New York City,New York,10035,East,47,3,15,2,1686.7312000000002,0,5,394.66999999999996,High-Value,0
+259,CS-11845,Cari Sayre,Female,25,Consumer,Seattle,Washington,98105,West,58,3,8,1,1278.9540000000002,0,4,183.17,Mid-Value,0
+260,DL-13330,Denise Leinenbach,Female,15,Consumer,Concord,North Carolina,28027,South,294,2,8,1,585.0200000000001,0,3,222.29,Mid-Value,0
+261,TP-21415,Tom Prescott,Male,21,Consumer,Dallas,Texas,75081,Central,104,3,10,1,5329.004800000001,2,6,-1092.0,High-Value,2
+262,SC-20680,Steve Carroll,Male,42,Corporate,Broken Arrow,Oklahoma,74012,Central,126,3,8,1,1254.64,0,4,370.16999999999996,Mid-Value,0
+263,JM-15865,John Murray,Male,31,Home Office,Akron,Ohio,44312,East,21,3,13,2,7625.076000000002,2,7,1572.21,High-Value,1
+264,GZ-14470,Gary Zandusky,Male,16,Consumer,Arlington,Virginia,22204,South,7,3,14,2,4355.15,1,6,1086.65,High-Value,2
+265,TP-21565,Tracy Poddar,Female,41,Home Office,Aurora,Colorado,80013,West,350,2,10,1,1936.6399999999996,1,4,136.82,Mid-Value,0
+266,HJ-14875,Heather Jas,Male,17,Consumer,Mesa,Arizona,85204,West,126,3,6,1,358.09999999999997,0,4,98.07000000000001,Mid-Value,0
+267,EK-13795,Eileen Kiefer,Female,15,Consumer,Santa Ana,California,92704,West,44,3,4,0,1303.4779999999998,0,3,96.75000000000001,Mid-Value,0
+268,AG-10300,Aleksandra Gannaway,Female,24,Consumer,Franklin,Massachusetts,2038,East,296,2,5,0,367.548,0,2,58.89999999999999,Low-Value,0
+269,CM-12160,Charles McCrossin,Male,25,Consumer,Baltimore,Maryland,21215,East,70,3,7,1,2533.314,1,5,-396.07,High-Value,2
+270,NC-18535,Nick Crebassa,Female,37,Corporate,San Francisco,California,94110,West,6,3,15,2,8241.738999999998,2,7,1312.7199999999998,High-Value,1
+271,SJ-20215,Sarah Jordon,Female,22,Consumer,Quincy,Illinois,62301,Central,136,3,10,1,1341.036,0,4,-27.22,Mid-Value,0
+272,VG-21805,Vivek Grady,Female,24,Consumer,Richmond,Indiana,47374,Central,286,2,6,1,427.37199999999996,0,3,-52.93000000000001,Mid-Value,0
+273,MA-17560,Matt Abelman,Male,24,Consumer,Philadelphia,Pennsylvania,19143,East,64,3,34,3,4299.161,1,7,1237.03,High-Value,2
+274,MZ-17335,Maria Zettner,Female,21,Consumer,Seattle,Washington,98105,West,30,3,6,1,593.6060000000001,0,4,84.61999999999999,Mid-Value,0
+275,ME-17320,Maria Etezadi,Female,42,Home Office,Springfield,Virginia,22153,South,24,3,22,3,10663.728,3,9,1856.5499999999997,High-Value,1
+276,TB-21355,Todd Boyes,Male,22,Consumer,Plainfield,New Jersey,7060,East,205,2,13,2,834.328,0,4,268.16,Mid-Value,0
+277,CP-12340,Christine Phan,Female,30,Home Office,Warwick,Rhode Island,2886,East,160,3,15,2,5888.275,2,7,-1853.51,High-Value,2
+278,CD-11920,Carlos Daly,Male,22,Consumer,New York City,New York,10035,East,40,3,9,1,2033.9680000000003,1,5,426.25,High-Value,0
+279,CL-12565,Clay Ludtke,Female,20,Consumer,New York City,New York,10009,East,284,2,28,3,10880.545999999998,3,8,1930.58,High-Value,1
+280,TB-21280,Toby Braunhardt,Male,22,Consumer,New York City,New York,10024,East,583,1,11,1,2198.45,1,3,489.8699999999999,Mid-Value,0
+281,AA-10645,Anna Andreadi,Female,24,Consumer,San Francisco,California,94109,West,233,2,18,2,5086.9349999999995,2,6,856.6500000000001,High-Value,2
+282,AP-10915,Arthur Prichep,Male,36,Home Office,Los Angeles,California,90045,West,98,3,31,3,3323.556,1,7,576.4099999999999,High-Value,2
+283,CT-11995,Carol Triggs,Female,13,Consumer,Tucson,Arizona,85705,West,96,3,18,2,3241.898,1,6,158.32,High-Value,2
+284,AG-10900,Arthur Gainer,Male,12,Consumer,Waterbury,Connecticut,6708,East,96,3,21,3,4510.7970000000005,1,7,340.16999999999996,High-Value,2
+285,WB-21850,William Brown,Male,48,Corporate,Los Angeles,California,90049,West,49,3,37,3,6160.101999999999,2,8,706.7399999999999,High-Value,2
+286,DJ-13420,Denny Joy,Male,21,Consumer,San Francisco,California,94109,West,695,1,5,0,2012.5200000000002,1,2,483.03000000000003,Low-Value,0
+287,BV-11245,Benjamin Venier,Male,12,Consumer,Seattle,Washington,98103,West,334,2,14,2,1523.273,0,4,313.93,Mid-Value,0
+288,DL-13495,Dionis Lloyd,Female,53,Corporate,Spokane,Washington,99207,West,76,3,12,1,3539.3220000000006,1,5,-53.39000000000001,High-Value,2
+289,PG-18820,Patrick Gardner,Male,20,Consumer,San Francisco,California,94110,West,36,3,26,3,3086.907,1,7,133.07999999999993,High-Value,2
+290,MH-18025,Michelle Huthwaite,Female,17,Consumer,Buffalo,New York,14215,East,49,3,10,1,2984.948,1,5,475.6000000000001,High-Value,2
+291,RE-19450,Richard Eichhorn,Male,45,Home Office,Eau Claire,Wisconsin,54703,Central,302,2,9,1,876.696,0,3,208.02,Mid-Value,0
+292,TB-21625,Trudy Brown,Male,24,Consumer,Los Angeles,California,90004,West,30,3,15,2,2797.668,1,6,377.7799999999999,High-Value,2
+293,FH-14350,Fred Harton,Male,21,Consumer,Dublin,Ohio,43017,East,320,2,14,2,2271.284,1,5,704.7800000000002,High-Value,0
+294,MZ-17515,Mary Zewe,Female,13,Consumer,Los Angeles,California,90008,West,282,2,10,1,2564.9059999999995,1,4,784.9499999999998,Mid-Value,2
+295,PW-19240,Pierre Wener,Male,24,Consumer,Pensacola,Florida,32503,South,464,2,12,1,3922.4149999999995,1,4,1288.29,Mid-Value,2
+296,AC-10660,Anna Chung,Female,32,Home Office,Parma,Ohio,44134,East,282,2,6,1,657.3159999999999,0,3,-29.8,Mid-Value,0
+297,AR-10345,Alex Russell,Male,13,Consumer,Lawrence,Massachusetts,1841,East,82,3,5,0,1055.694,0,3,-222.35,Mid-Value,0
+298,JH-15985,Joseph Holt,Male,15,Consumer,Redondo Beach,California,90278,West,352,2,14,2,7954.9980000000005,2,6,-645.9100000000001,High-Value,1
+299,AB-10015,Aaron Bergman,Male,21,Consumer,Seattle,Washington,98103,West,445,2,6,1,886.156,0,3,128.94,Mid-Value,0
+300,AH-10210,Alan Hwang,Male,22,Consumer,New York City,New York,10024,East,6,3,13,2,4805.343999999999,2,7,1307.3599999999997,High-Value,2
+301,SS-20410,Shahid Shariari,Male,16,Consumer,Los Angeles,California,90008,West,51,3,12,1,3056.807,1,5,-1014.0699999999999,High-Value,2
+302,CA-12265,Christina Anderson,Female,52,Corporate,Wilmington,Delaware,19805,East,20,3,17,2,2648.2871999999998,1,6,276.4,High-Value,2
+303,HM-14860,Harry Marie,Male,12,Consumer,Loveland,Colorado,80538,West,2,3,20,2,8236.7648,2,7,2433.35,High-Value,1
+304,AG-10675,Anna Gayman,Female,14,Consumer,Columbus,Georgia,31907,South,97,3,15,2,3489.0396,1,6,-248.82000000000002,High-Value,2
+305,TM-21490,Tony Molinari,Male,26,Home Office,San Francisco,California,94110,West,130,3,4,0,1094.6779999999999,0,3,292.33,Mid-Value,0
+306,TT-21265,Tim Taslimi,Male,17,Consumer,Indianapolis,Indiana,46203,Central,406,2,3,0,439.5,0,2,93.92,Low-Value,0
+307,KM-16375,Katherine Murray,Female,19,Consumer,Arlington,Virginia,22204,South,263,2,20,2,5620.186,2,6,970.98,High-Value,2
+308,TT-21220,Thomas Thornton,Male,43,Home Office,Virginia Beach,Virginia,23464,South,183,3,15,2,1427.0440000000003,0,5,275.55,High-Value,0
+309,PA-19060,Pete Armstrong,Male,16,Consumer,Miami,Florida,33142,South,103,3,7,1,729.4079999999999,0,4,224.56,Mid-Value,0
+310,DV-13045,Darrin Van Huff,Male,15,Consumer,San Diego,California,92037,West,48,3,9,1,1119.4830000000002,0,4,-428.72999999999996,Mid-Value,0
+311,NC-18415,Nathan Cano,Male,45,Home Office,Houston,Texas,77095,Central,41,3,14,2,2218.99,1,6,-2208.5099999999998,High-Value,0
+312,CY-12745,Craig Yedwab,Female,23,Consumer,Monroe,Louisiana,71203,South,60,3,11,1,2900.026,1,5,58.44,High-Value,2
+313,NC-18625,Noah Childs,Male,56,Corporate,Dallas,Texas,75217,Central,115,3,9,1,1821.7420000000002,0,4,-361.2199999999999,Mid-Value,0
+314,KH-16630,Ken Heidel,Male,25,Consumer,Akron,Ohio,44312,East,51,3,17,2,3918.966,1,6,725.58,High-Value,2
+315,ML-18265,Muhammed Lee,Male,21,Consumer,Seattle,Washington,98103,West,100,3,3,0,162.232,0,3,42.47,Mid-Value,0
+316,JE-15715,Joe Elijah,Male,21,Consumer,Houston,Texas,77041,Central,46,3,22,3,8697.842999999999,2,8,1255.18,High-Value,1
+317,DM-13525,Don Miller,Male,19,Consumer,Palm Coast,Florida,32137,South,600,1,10,1,1376.792,0,2,198.07999999999998,Low-Value,0
+318,TS-21340,Toby Swindell,Male,17,Consumer,Scottsdale,Arizona,85254,West,226,2,12,1,974.7820000000002,0,3,-188.40000000000003,Mid-Value,0
+319,KF-16285,Karen Ferguson,Female,49,Corporate,San Diego,California,92105,West,51,3,18,2,10604.266,3,8,1659.5200000000004,High-Value,1
+320,CG-12520,Claire Gute,Female,17,Consumer,Houston,Texas,77070,Central,338,2,5,0,1148.78,0,2,168.93,Low-Value,0
+321,EN-13780,Edward Nazzal,Male,34,Home Office,New York City,New York,10009,East,287,2,9,1,2199.3659999999995,1,4,495.71000000000004,Mid-Value,0
+322,CK-12205,Chloris Kastensmidt,Male,23,Consumer,Santa Clara,California,95051,West,25,3,32,3,3154.8549999999996,1,7,133.75,High-Value,2
+323,SJ-20125,Sanjit Jacobs,Male,25,Consumer,Long Beach,California,90805,West,52,3,24,3,3949.6559999999995,1,7,138.53000000000003,High-Value,2
+324,AB-10255,Alejandro Ballentine,Male,14,Consumer,New York City,New York,10009,East,166,3,14,2,914.5319999999999,0,5,263.17,High-Value,0
+325,SG-20470,Sheri Gordon,Female,25,Consumer,San Francisco,California,94109,West,183,3,14,2,1884.7980000000002,0,5,-121.11000000000006,High-Value,0
+326,MB-17305,Maria Bertelson,Female,25,Consumer,Cincinnati,Ohio,45231,East,19,3,19,2,1548.7020000000002,0,5,209.13,High-Value,0
+327,SU-20665,Stephanie Ulpright,Female,44,Home Office,Ann Arbor,Michigan,48104,Central,79,3,18,2,2595.3639999999996,1,6,761.0799999999999,High-Value,2
+328,AT-10435,Alyssa Tate,Female,15,Consumer,Meriden,Connecticut,6450,East,109,3,9,1,1171.8139999999999,0,4,99.07,Mid-Value,0
+329,AH-10120,Adrian Hane,Male,18,Consumer,Salem,Oregon,97301,West,60,3,16,2,1735.5140000000001,0,5,-6.10000000000001,High-Value,0
+330,CA-12055,Cathy Armstrong,Female,17,Consumer,Cleveland,Ohio,44105,East,401,2,10,1,1679.7240000000004,0,3,208.26,Mid-Value,0
+331,KB-16585,Ken Black,Male,20,Consumer,Springfield,Oregon,97477,West,27,3,23,3,2744.742,1,7,576.86,High-Value,2
+332,DR-12880,Dan Reichenbach,Male,53,Corporate,New York City,New York,10011,East,3,3,24,3,6528.034,2,8,1638.65,High-Value,2
+333,DH-13075,Dave Hallsten,Male,17,Consumer,Fairfield,California,94533,West,277,2,23,3,4932.871999999999,2,7,1191.94,High-Value,2
+334,BH-11710,Brosina Hoffman,Male,15,Consumer,Hialeah,Florida,33012,South,171,3,24,3,6255.351,2,8,798.4000000000001,High-Value,2
+335,RD-19900,Ruben Dartt,Male,22,Consumer,Thousand Oaks,California,91360,West,174,3,21,3,3133.923999999999,1,7,454.33,High-Value,2
+336,SR-20740,Steven Roelle,Male,18,Consumer,New York City,New York,10024,East,196,2,12,1,4345.886,1,4,1990.03,Mid-Value,2
+337,AH-10030,Aaron Hawkins,Male,24,Consumer,San Francisco,California,94109,West,12,3,11,1,1744.7,0,4,364.21999999999997,Mid-Value,0
+338,AO-10810,Anthony O'Donnell,Male,25,Home Office,Los Angeles,California,90045,West,501,1,1,0,161.28,0,1,11.9,Low-Value,0
+339,DB-13270,Deborah Brumfield,Female,39,Corporate,Portland,Oregon,97206,West,172,3,13,2,4655.896999999999,1,6,839.14,High-Value,2
+340,MH-17785,Maya Herman,Female,18,Consumer,New York City,New York,10035,East,98,3,11,1,2203.7780000000002,1,5,237.76000000000002,High-Value,0
+341,MG-17650,Matthew Grinstein,Male,14,Consumer,Marion,Ohio,43302,East,20,3,14,2,3785.2760000000003,1,6,340.11,High-Value,2
+342,MC-17575,Matt Collins,Male,18,Consumer,Chicago,Illinois,60623,Central,175,3,11,1,1303.893,0,4,207.54,Mid-Value,0
+343,MK-17905,Michael Kennedy,Male,46,Corporate,Rockford,Illinois,61107,Central,139,3,17,2,2302.368,1,6,-410.43999999999994,High-Value,0
+344,DB-13660,Duane Benoit,Female,26,Home Office,Lancaster,Ohio,43130,East,12,3,10,1,1155.2020000000002,0,4,176.06,Mid-Value,0
+345,EM-14140,Eugene Moren,Female,36,Home Office,Newark,Delaware,19711,East,19,3,21,3,4588.435999999999,1,7,1317.97,High-Value,2
+346,DS-13030,Darrin Sayre,Male,17,Consumer,New York City,New York,10009,East,93,3,19,2,1762.213,0,5,190.69,High-Value,0
+347,AW-10930,Arthur Wiediger,Male,23,Consumer,Philadelphia,Pennsylvania,19143,East,46,3,16,2,2852.968,1,6,-109.44,High-Value,2
+348,TB-21250,Tim Brockman,Male,21,Consumer,Austin,Texas,78745,Central,349,2,19,2,1602.3759999999995,0,4,255.89999999999995,Mid-Value,0
+349,RD-19660,Robert Dilbeck,Male,59,Corporate,Oakland,California,94601,West,174,3,5,0,2786.6319999999996,1,4,835.37,Mid-Value,2
+350,EC-14050,Erin Creighton,Female,25,Consumer,San Francisco,California,94110,West,152,3,7,1,461.914,0,4,95.74000000000001,Mid-Value,0
+351,AJ-10780,Anthony Jacobs,Male,22,Consumer,Baltimore,Maryland,21215,East,75,3,15,2,4867.344,2,7,149.42000000000013,High-Value,2
+352,BS-11590,Brendan Sweed,Female,20,Consumer,Philadelphia,Pennsylvania,19140,East,35,3,10,1,2454.928,1,5,378.78,High-Value,2
+353,RA-19945,Ryan Akin,Male,45,Home Office,Commerce City,Colorado,80022,West,61,3,9,1,1686.9225000000001,0,4,-448.54,Mid-Value,0
+354,AG-10495,Andrew Gjertsen,Male,14,Consumer,Los Angeles,California,90049,West,78,3,21,3,2356.8549999999996,1,7,291.38000000000005,High-Value,0
+355,MV-18190,Mike Vittorini,Male,26,Home Office,Los Angeles,California,90045,West,48,3,11,1,1734.574,0,4,272.89,Mid-Value,0
+356,VP-21760,Victoria Pisteka,Female,24,Consumer,San Francisco,California,94109,West,75,3,14,2,3360.5259999999994,1,6,-1021.16,High-Value,2
+357,BF-11020,Barry Französisch,Male,16,Consumer,Arlington,Texas,76017,Central,74,3,21,3,2888.5060000000003,1,7,296.61000000000007,High-Value,2
+358,SF-20065,Sandra Flanagan,Female,22,Consumer,Goldsboro,North Carolina,27534,South,167,3,9,1,763.546,0,4,227.27,Mid-Value,0
+359,IM-15055,Ionia McGrath,Female,12,Consumer,Roseville,California,95661,West,409,2,4,0,2872.63,1,3,975.38,Mid-Value,2
+360,CS-12355,Christine Sundaresam,Female,13,Consumer,Fairfield,Connecticut,6824,East,6,3,22,3,3202.162,1,7,830.14,High-Value,2
+361,PS-18760,Pamela Stobb,Female,19,Consumer,Philadelphia,Pennsylvania,19140,East,107,3,21,3,2181.479,1,7,-139.14,High-Value,0
+362,MP-18175,Mike Pelletier,Male,12,Consumer,Troy,Ohio,45373,East,16,3,19,2,5087.919999999999,2,7,223.52999999999977,High-Value,2
+363,BT-11440,Bobby Trafton,Male,19,Consumer,Frankfort,Illinois,60423,Central,560,1,7,1,603.8760000000001,0,2,-78.61999999999999,Low-Value,0
+364,SG-20080,Sandra Glassco,Female,22,Consumer,Seattle,Washington,98105,West,8,3,11,1,3406.581,1,5,569.7,High-Value,2
+365,HM-14980,Henry MacAllister,Female,12,Consumer,Los Angeles,California,90008,West,56,3,7,1,736.276,0,4,116.07,Mid-Value,0
+366,BP-11095,Bart Pistole,Male,13,Consumer,New York City,New York,10024,East,17,3,20,2,2442.0439999999994,1,6,430.67,High-Value,2
+367,KC-16675,Kimberly Carter,Female,26,Home Office,Louisville,Kentucky,40214,South,218,2,7,1,1146.05,0,3,156.17000000000004,Mid-Value,0
+368,LW-16990,Lindsay Williams,Female,40,Corporate,Henderson,Nevada,89015,West,33,3,11,1,3230.3080000000004,1,5,661.63,High-Value,2
+369,JM-15250,Janet Martin,Female,50,Corporate,Baltimore,Maryland,21215,East,37,3,19,2,3159.122000000001,1,6,14.310000000000052,High-Value,2
+370,LC-16870,Lena Cacioppo,Female,21,Consumer,San Francisco,California,94109,West,98,3,30,3,2580.7039999999993,1,7,-195.4699999999999,High-Value,2
+371,RD-19720,Roger Demir,Male,15,Consumer,San Francisco,California,94122,West,109,3,20,2,1419.737,0,5,204.18999999999997,High-Value,0
+372,SC-20380,Shahid Collister,Male,20,Consumer,Fairfield,Connecticut,6824,East,30,3,20,2,5992.535999999999,2,7,232.86999999999995,High-Value,2
+373,RL-19615,Rob Lucas,Male,13,Consumer,Los Angeles,California,90049,West,121,3,24,3,6234.91,2,8,482.90000000000003,High-Value,2
+374,TC-21535,Tracy Collins,Female,16,Consumer,San Francisco,California,94110,West,4,3,10,1,742.558,0,4,216.85000000000002,Mid-Value,0
+375,SC-20725,Steven Cartwright,Male,43,Home Office,San Francisco,California,94122,West,187,2,26,3,5226.210000000001,2,7,1272.74,High-Value,2
+376,JK-15730,Joe Kamberova,Male,38,Home Office,Des Plaines,Illinois,60016,Central,92,3,20,2,4867.200000000001,2,7,48.40000000000003,High-Value,2
+377,CS-11950,Carlos Soltero,Male,22,Consumer,New York City,New York,10024,East,67,3,22,3,3036.5469999999996,1,7,-132.22000000000003,High-Value,2
+378,JF-15295,Jason Fortune-,Male,24,Consumer,Los Angeles,California,90036,West,225,2,14,2,955.1239999999999,0,4,95.69,Mid-Value,0
+379,ML-17410,Maris LaWare,Female,22,Consumer,Chicago,Illinois,60653,Central,165,3,15,2,2921.5,1,6,-78.68000000000004,High-Value,2
+380,AG-10270,Alejandro Grove,Male,14,Consumer,New York City,New York,10011,East,278,2,14,2,2582.8979999999997,1,5,732.55,High-Value,2
+381,LL-16840,Lauren Leatherbury,Female,42,Corporate,Waynesboro,Virginia,22980,South,249,2,12,1,2741.204,1,4,559.82,Mid-Value,2
+382,LC-16885,Lena Creighton,Female,40,Home Office,Longmont,Colorado,80501,West,16,3,23,3,7663.125999999999,2,8,1284.76,High-Value,1
+383,EM-13825,Elizabeth Moffitt,Female,13,Consumer,Houston,Texas,77036,Central,163,3,16,2,2339.598,1,6,681.56,High-Value,0
+384,BD-11605,Brian Dahlen,Male,45,Home Office,Lancaster,Pennsylvania,17602,East,97,3,20,2,3288.471,1,6,633.38,High-Value,2
+385,RB-19795,Ross Baird,Female,16,Consumer,Denver,Colorado,80219,West,32,3,18,2,5633.316000000001,2,7,-466.24,High-Value,2
+386,KN-16390,Katherine Nockton,Female,24,Consumer,Houston,Texas,77070,Central,48,3,17,2,2617.272,1,6,-154.85,High-Value,2
+387,PN-18775,Parhena Norris,Female,44,Corporate,Omaha,Nebraska,68104,Central,30,3,13,2,1467.152,0,5,190.44,High-Value,0
+388,EJ-13720,Ed Jacobs,Male,44,Corporate,Philadelphia,Pennsylvania,19143,East,302,2,8,1,2162.1740000000004,1,4,385.61999999999995,Mid-Value,0
+389,LB-16795,Laurel Beltran,Female,53,Corporate,Pueblo,Colorado,81001,West,116,3,24,3,4985.676000000002,2,8,-57.86999999999991,High-Value,2
+390,FC-14335,Fred Chung,Male,15,Consumer,San Francisco,California,94110,West,184,2,10,1,3889.366,1,4,712.6899999999999,Mid-Value,2
+391,SC-20575,Sonia Cooley,Female,14,Consumer,Los Angeles,California,90036,West,92,3,7,1,902.7280000000001,0,4,97.83000000000001,Mid-Value,0
+392,AG-10330,Alex Grayson,Male,25,Consumer,Charlotte,North Carolina,28205,South,8,3,9,1,660.9720000000001,0,4,-7.240000000000002,Mid-Value,0
+393,CC-12550,Clay Cheatham,Female,23,Consumer,Plano,Texas,75023,Central,198,2,4,0,113.83200000000001,0,2,33.269999999999996,Low-Value,0
+394,DO-13435,Denny Ordway,Female,16,Consumer,Portland,Oregon,97206,West,133,3,13,2,1300.0315,0,5,-40.94000000000002,High-Value,0
+395,SP-20920,Susan Pistek,Female,24,Consumer,San Francisco,California,94109,West,70,3,14,2,3990.6890000000008,1,6,10.890000000000002,High-Value,2
+396,LW-17215,Luke Weiss,Male,19,Consumer,Chicago,Illinois,60653,Central,56,3,15,2,5420.514,2,7,834.74,High-Value,2
+397,HR-14830,Harold Ryan,Male,22,Consumer,New York City,New York,10035,East,159,3,14,2,5248.787,2,7,1195.55,High-Value,2
+398,DK-13090,Dave Kipp,Male,17,Consumer,Clinton,Maryland,20735,East,42,3,13,2,2650.557,1,6,534.6,High-Value,2
+399,MG-17680,Maureen Gastineau,Male,50,Corporate,Los Angeles,California,90049,West,92,3,10,1,2350.188,1,5,23.64000000000003,High-Value,0
+400,LW-16825,Laurel Workman,Female,21,Consumer,New York City,New York,10024,East,295,2,15,2,2238.0609999999997,1,5,29.469999999999963,High-Value,0
+401,CR-12820,Cyra Reiten,Female,20,Consumer,Houston,Texas,77041,Central,203,2,7,1,1397.8724,0,3,82.34999999999998,Mid-Value,0
+402,JD-15895,Jonathan Doherty,Male,18,Consumer,Riverside,California,92503,West,425,2,32,3,7610.864,2,7,1047.86,High-Value,1
+403,CA-11965,Carol Adams,Female,24,Consumer,Rapid City,South Dakota,57701,Central,96,3,10,1,3789.7227999999996,1,5,1142.27,High-Value,2
+404,RB-19360,Raymond Buch,Male,20,Consumer,Seattle,Washington,98115,West,96,3,18,2,15117.339,3,8,6974.389999999999,High-Value,1
+405,CM-12115,Chad McGuire,Male,43,Corporate,Los Angeles,California,90008,West,8,3,7,1,1661.6100000000001,0,4,408.87,Mid-Value,0
+406,FC-14245,Frank Carlisle,Male,13,Consumer,Hialeah,Florida,33012,South,70,3,14,2,3418.742,1,6,1215.28,High-Value,2
+407,ZD-21925,Zuschuss Donatelli,Male,23,Consumer,Los Angeles,California,90036,West,54,3,9,1,1493.944,0,4,248.13,Mid-Value,0
+408,RO-19780,Rose O'Brian,Male,22,Consumer,San Francisco,California,94110,West,35,3,12,1,3815.478,1,5,-1266.08,High-Value,2
+409,CS-12250,Chris Selesnick,Female,52,Corporate,Los Angeles,California,90032,West,37,3,28,3,2754.2160000000003,1,7,736.77,High-Value,2
+410,AI-10855,Arianne Irving,Female,13,Consumer,San Francisco,California,94122,West,13,3,18,2,4375.786,1,6,866.4300000000001,High-Value,2
+411,GB-14530,George Bell,Male,44,Corporate,Aurora,Colorado,80013,West,62,3,20,2,1568.4400000000003,0,5,4.45000000000001,High-Value,0
+412,PM-18940,Paul MacIntyre,Male,23,Consumer,Springfield,Virginia,22153,South,474,1,4,0,1405.4019999999998,0,1,157.28,Low-Value,0
+413,BG-11035,Barry Gonzalez,Female,24,Consumer,The Colony,Texas,75056,Central,121,3,12,1,2798.948,1,5,-713.71,High-Value,2
+414,MS-17770,Maxwell Schwartz,Male,25,Consumer,New York City,New York,10035,East,121,3,19,2,3144.678,1,6,278.96,High-Value,2
+415,TS-21505,Tony Sayre,Male,23,Consumer,Concord,New Hampshire,3301,East,11,3,14,2,2243.274,1,6,8.690000000000014,High-Value,0
+416,BD-11770,Bryan Davis,Male,17,Consumer,Philadelphia,Pennsylvania,19120,East,211,2,10,1,658.466,0,3,140.07999999999998,Mid-Value,0
+417,SO-20335,Sean O'Donnell,Male,13,Consumer,Greeley,Colorado,80634,West,112,3,15,2,2602.5755,1,6,-83.12000000000002,High-Value,2
+418,GD-14590,Giulietta Dortch,Female,15,Consumer,Arlington,Virginia,22204,South,5,3,6,1,1888.0700000000002,0,4,230.14999999999998,Mid-Value,0
+419,OT-18730,Olvera Toch,Female,35,Home Office,Bethlehem,Pennsylvania,18018,East,65,3,10,1,3818.6240000000003,1,5,-926.7299999999998,High-Value,2
+420,PO-19180,Philisse Overcash,Male,46,Corporate,Kenosha,Wisconsin,53142,Central,160,3,18,2,4893.043,2,7,1153.5499999999997,High-Value,2
+421,RR-19525,Rick Reed,Male,22,Consumer,Nashville,Tennessee,37211,South,170,3,10,1,3302.262,1,5,721.0900000000001,High-Value,2
+422,CJ-11875,Carl Jackson,Female,19,Consumer,Philadelphia,Pennsylvania,19140,East,365,2,1,0,16.52,0,2,1.45,Low-Value,0
+423,JD-16015,Joy Daniels,Female,23,Consumer,Toledo,Ohio,43615,East,53,3,11,1,385.43000000000006,0,4,23.36,Mid-Value,0
+424,DB-13555,Dorothy Badders,Female,43,Corporate,Raleigh,North Carolina,27604,South,107,3,14,2,3908.8028,1,6,107.23000000000003,High-Value,2
+425,EA-14035,Erin Ashbrook,Female,57,Corporate,Huntsville,Texas,77340,Central,152,3,25,3,2846.7050000000004,1,7,-60.22999999999996,High-Value,2
+426,CM-12715,Craig Molinari,Female,24,Consumer,Houston,Texas,77070,Central,1092,0,13,2,3984.4524000000006,1,3,172.3,Mid-Value,2
+427,FA-14230,Frank Atkinson,Male,13,Consumer,Raleigh,North Carolina,27604,South,97,3,17,2,2984.0539999999996,1,6,516.13,High-Value,2
+428,FO-14305,Frank Olsen,Male,19,Consumer,Philadelphia,Pennsylvania,19143,East,38,3,15,2,2678.4380000000006,1,6,212.27999999999994,High-Value,2
+429,SB-20185,Sarah Brown,Female,46,Corporate,Chicago,Illinois,60653,Central,24,3,12,1,6410.995999999999,2,6,883.7700000000001,High-Value,2
+430,AM-10360,Alice McCarthy,Female,34,Home Office,Los Angeles,California,90008,West,216,2,12,1,814.0120000000001,0,3,193.49000000000004,Mid-Value,0
+431,CR-12625,Corey Roper,Female,33,Home Office,Columbus,Georgia,31907,South,470,1,4,0,475.9,0,1,144.77,Low-Value,0
+432,AY-10555,Andy Yotov,Male,14,Consumer,San Francisco,California,94110,West,14,3,10,1,497.014,0,4,102.33999999999999,Mid-Value,0
+433,NW-18400,Natalie Webber,Female,23,Consumer,Portland,Oregon,97206,West,53,3,22,3,7234.014000000001,2,8,1018.4200000000002,High-Value,1
+434,LW-17125,Liz Willingham,Female,25,Home Office,Virginia Beach,Virginia,23464,South,146,3,5,0,1259.04,0,3,192.63000000000002,Mid-Value,0
+435,DD-13570,Dorothy Dickinson,Male,20,Consumer,Memphis,Tennessee,38109,South,41,3,9,1,269.542,0,4,34.24,Mid-Value,0
+436,MA-17995,Michelle Arnett,Female,13,Consumer,Richmond,Virginia,23223,South,186,2,12,1,2453.2839999999997,1,4,280.28,Mid-Value,0
+437,FW-14395,Fred Wasserman,Male,13,Consumer,New York City,New York,10011,East,332,2,3,0,79.75,0,2,23.5,Low-Value,0
+438,BF-10975,Barbara Fisher,Female,15,Consumer,Philadelphia,Pennsylvania,19120,East,91,3,13,2,599.798,0,5,225.54000000000002,High-Value,0
+439,MM-17260,Magdelene Morse,Female,28,Home Office,Columbus,Ohio,43229,East,58,3,6,1,1314.023,0,4,177.61,Mid-Value,0
+440,NM-18445,Nathan Mautz,Male,13,Consumer,North Las Vegas,Nevada,89031,West,160,3,14,2,6459.343999999999,2,7,2751.09,High-Value,1
+441,JH-15820,John Huston,Male,13,Consumer,Monroe,North Carolina,28110,South,114,3,8,1,528.91,0,4,24.870000000000005,Mid-Value,0
+442,AJ-10945,Ashley Jarboe,Female,20,Consumer,San Francisco,California,94110,West,121,3,10,1,1839.2400000000002,0,4,520.74,Mid-Value,0
+443,CK-12325,Christine Kargatis,Female,54,Corporate,Troy,Ohio,45373,East,316,2,12,1,2945.321,1,4,259.03000000000003,Mid-Value,2
+444,FH-14275,Frank Hawley,Male,18,Consumer,Aurora,Illinois,60505,Central,37,3,21,3,4256.272000000001,1,7,1070.5800000000002,High-Value,2
+445,MW-18220,Mitch Webber,Female,51,Corporate,New York City,New York,10011,East,17,3,14,2,5341.9,2,7,1237.3200000000002,High-Value,2
+446,RB-19465,Rick Bensley,Male,38,Corporate,Chicago,Illinois,60653,Central,9,3,23,3,4715.466,2,8,637.44,High-Value,2
+447,SC-20305,Sean Christensen,Male,40,Corporate,Los Angeles,California,90036,West,85,3,12,1,3979.0650000000005,1,5,226.55,High-Value,2
+448,MH-17620,Matt Hagelstein,Male,19,Consumer,Houston,Texas,77041,Central,155,3,6,1,1252.8,0,4,120.95,Mid-Value,0
+449,JS-16030,Joy Smith,Female,24,Consumer,Columbus,Ohio,43229,East,72,3,18,2,2516.494,1,6,-314.5499999999999,High-Value,2
+450,EM-13960,Eric Murdock,Male,59,Corporate,Portland,Oregon,97206,West,356,2,6,1,933.704,0,3,100.89999999999998,Mid-Value,0
+451,PB-18805,Patrick Bzostek,Male,15,Consumer,Seattle,Washington,98115,West,232,2,10,1,740.356,0,3,228.03,Mid-Value,0
+452,NF-18595,Nicole Fjeld,Female,16,Consumer,San Jose,California,95123,West,134,3,12,1,2031.4720000000002,1,5,386.8,High-Value,0
+453,SM-20905,Susan MacKendrick,Female,44,Home Office,Newark,Ohio,43055,East,665,1,6,1,1043.0410000000002,0,2,-238.98999999999998,Low-Value,0
+454,RB-19705,Roger Barcio,Male,54,Corporate,New York City,New York,10035,East,107,3,7,1,2067.45,1,5,241.98,High-Value,0
+455,ME-17725,Max Engle,Male,13,Consumer,Dallas,Texas,75220,Central,30,3,13,2,1908.4532000000002,0,5,74.89000000000004,High-Value,0
+456,SC-20695,Steve Chapman,Male,21,Consumer,Springfield,Ohio,45503,East,83,3,14,2,2576.4080000000004,1,6,609.62,High-Value,2
+457,KM-16720,Kunst Miller,Male,43,Home Office,Lowell,Massachusetts,1852,East,321,2,28,3,4909.472000000002,2,7,743.2700000000001,High-Value,2
+458,CB-12025,Cassandra Brandow,Female,12,Consumer,East Orange,New Jersey,7017,East,47,3,26,3,6076.138999999999,2,8,145.96,High-Value,2
+459,BE-11455,Brad Eason,Male,41,Corporate,Cleveland,Ohio,44105,East,254,2,13,2,1727.652,0,4,137.30999999999997,Mid-Value,0
+460,KD-16615,Ken Dana,Male,26,Home Office,Anaheim,California,92804,West,289,2,13,2,2243.5099999999998,1,5,538.3199999999998,High-Value,0
+461,JK-15205,Jamie Kunitz,Female,31,Home Office,Niagara Falls,New York,14304,East,61,3,13,2,4427.141999999999,1,6,1218.2799999999997,High-Value,2
+462,TB-21055,Ted Butterfield,Male,14,Consumer,Fairfield,Ohio,45014,East,284,2,18,2,1467.881,0,4,389.21999999999997,Mid-Value,0
+463,GT-14635,Grant Thornton,Male,46,Corporate,Burlington,North Carolina,27217,South,263,2,6,1,9351.211999999998,2,5,-4110.16,High-Value,1
+464,DL-12925,Daniel Lacy,Male,34,Home Office,Oceanside,California,92054,West,294,2,14,2,3272.2000000000003,1,5,3.7100000000000364,High-Value,2
+465,KC-16540,Kelly Collister,Female,40,Corporate,Seattle,Washington,98115,West,97,3,5,0,3908.2619999999997,1,4,708.43,Mid-Value,2
+466,NG-18355,Nat Gilpin,Male,15,Consumer,Coral Springs,Florida,33065,South,19,3,16,2,1869.5800000000002,0,5,312.23,High-Value,0
+467,MS-17710,Maurice Satty,Female,17,Consumer,Fort Worth,Texas,76106,Central,384,2,15,2,1613.402,0,4,244.12999999999997,Mid-Value,0
+468,PP-18955,Paul Prost,Male,15,Consumer,Smyrna,Georgia,30080,South,97,3,34,3,7252.608,2,8,1491.41,High-Value,1
+469,AA-10480,Andrew Allen,Male,13,Consumer,Middletown,Connecticut,6457,East,259,2,12,1,1790.512,0,3,435.61999999999995,Mid-Value,0
+470,LS-16975,Lindsay Shagiari,Female,25,Consumer,Omaha,Nebraska,68104,Central,19,3,22,3,2988.674,1,7,256.4200000000001,High-Value,2
+471,HH-15010,Hilary Holden,Female,39,Home Office,San Francisco,California,94110,West,72,3,6,1,218.668,0,4,86.53,Mid-Value,0
+472,RF-19840,Roy Französisch,Male,13,Consumer,San Antonio,Texas,78207,Central,6,3,11,1,945.222,0,4,279.12,Mid-Value,0
+473,KT-16465,Kean Takahito,Male,58,Corporate,Glendale,Arizona,85301,West,625,1,14,2,3057.0999999999995,1,4,250.81999999999994,Mid-Value,2
+474,SC-20800,Stuart Calhoun,Male,34,Home Office,Houston,Texas,77041,Central,30,3,5,0,279.256,0,3,51.23,Mid-Value,0
+475,RH-19600,Rob Haberlin,Male,24,Consumer,Huntsville,Alabama,35810,South,534,1,11,1,2085.74,1,3,171.42,Mid-Value,0
+476,SM-20320,Sean Miller,Male,17,Consumer,Monroe,North Carolina,28110,South,20,3,15,2,25043.05,3,8,-1984.45,High-Value,1
+477,RB-19435,Richard Bierner,Male,23,Consumer,Houston,Texas,77070,Central,41,3,16,2,2663.0860000000002,1,6,474.63,High-Value,2
+478,EM-13810,Eleni McCrary,Female,60,Corporate,San Francisco,California,94122,West,132,3,7,1,2567.0099999999998,1,5,-134.82000000000005,High-Value,2
+479,HG-15025,Hunter Glantz,Male,13,Consumer,Amarillo,Texas,79109,Central,6,3,11,1,3690.2840000000006,1,5,802.7199999999999,High-Value,2
+480,SV-20785,Stewart Visinsky,Male,20,Consumer,Pueblo,Colorado,81001,West,320,2,25,3,4105.304999999999,1,6,480.42999999999995,High-Value,2
+481,MM-17920,Michael Moore,Male,30,Home Office,San Francisco,California,94109,West,7,3,16,2,3794.0800000000004,1,6,79.21000000000001,High-Value,2
+482,ML-17755,Max Ludwig,Male,58,Corporate,Toledo,Ohio,43615,East,30,3,13,2,2071.914,1,6,408.11,High-Value,0
+483,EH-13945,Eric Hoffmann,Male,15,Consumer,Tempe,Arizona,85281,West,217,2,17,2,684.171,0,4,48.54000000000001,Mid-Value,0
+484,MW-18235,Mitch Willingham,Female,49,Corporate,San Francisco,California,94122,West,44,3,3,0,5253.876,2,5,1665.32,High-Value,2
+485,CL-11890,Carl Ludwig,Male,16,Consumer,Philadelphia,Pennsylvania,19143,East,85,3,7,1,1262.014,0,4,327.68,Mid-Value,0
+486,SS-20590,Sonia Sunley,Female,19,Consumer,Madison,Wisconsin,53711,Central,432,2,9,1,418.49,0,3,135.54,Mid-Value,0
+487,PO-19195,Phillina Ober,Female,13,Consumer,San Francisco,California,94122,West,234,2,10,1,1056.858,0,3,-51.58999999999999,Mid-Value,0
+488,RD-19930,Russell D'Ascenzo,Male,12,Consumer,Austin,Texas,78745,Central,42,3,10,1,970.942,0,4,31.939999999999998,Mid-Value,0
+489,JK-15640,Jim Kriz,Male,22,Consumer,Seattle,Washington,98105,West,298,2,12,1,4760.434,2,5,1171.33,High-Value,2
+490,VM-21835,Vivian Mathis,Female,31,Home Office,Newark,Delaware,19711,East,265,2,8,1,380.69,0,3,115.74000000000001,Mid-Value,0
+491,PK-19075,Pete Kriz,Male,24,Consumer,Milwaukee,Wisconsin,53209,Central,9,3,25,3,8646.934000000001,2,8,2036.3600000000001,High-Value,1
+492,MY-18295,Muhammed Yedwab,Male,43,Corporate,Columbus,Ohio,43229,East,71,3,21,3,4152.696,1,7,-376.83000000000004,High-Value,2
+493,DH-13675,Duane Huffman,Female,24,Consumer,Quincy,Massachusetts,2169,East,776,1,11,1,1043.096,0,2,115.33,Low-Value,0
+494,MH-17455,Mark Hamilton,Male,54,Corporate,Greenwood,Indiana,46142,Central,170,3,11,1,2456.1820000000002,1,5,482.98999999999995,High-Value,2
+495,JM-15655,Jim Mitchum,Male,15,Consumer,Lorain,Ohio,44052,East,8,3,12,1,864.9470000000002,0,4,115.3,Mid-Value,0
+496,LP-17080,Liz Pelletier,Female,22,Consumer,Seattle,Washington,98103,West,40,3,9,1,756.606,0,4,109.79,Mid-Value,0
+497,JF-15355,Jay Fein,Male,24,Consumer,Columbia,South Carolina,29203,South,105,3,16,2,1911.844,0,5,329.0,High-Value,0
+498,BS-11365,Bill Shonely,Male,36,Corporate,New York City,New York,10011,East,558,1,9,1,10501.652999999998,3,5,2615.96,High-Value,1
+499,SF-20200,Sarah Foster,Female,25,Consumer,Murray,Utah,84107,West,125,3,15,2,3422.786,1,6,285.01,High-Value,2
+500,MO-17500,Mary O'Rourke,Male,21,Consumer,The Colony,Texas,75056,Central,72,3,5,0,922.487,0,3,58.260000000000005,Mid-Value,0
+501,RR-19315,Ralph Ritter,Male,21,Consumer,Aurora,Illinois,60505,Central,48,3,4,0,615.932,0,3,-74.92999999999999,Mid-Value,0
+502,SW-20245,Scot Wooten,Male,12,Consumer,Springfield,Ohio,45503,East,81,3,10,1,1085.078,0,4,-22.209999999999994,Mid-Value,0
+503,LT-17110,Liz Thompson,Female,18,Consumer,Orange,New Jersey,7050,East,34,3,14,2,2936.2520000000004,1,6,317.53000000000003,High-Value,2
+504,TN-21040,Tanja Norvell,Female,44,Home Office,Manteca,California,95336,West,354,2,12,1,3130.2209999999995,1,4,-694.4500000000002,Mid-Value,2
+505,JL-15835,John Lee,Male,14,Consumer,Detroit,Michigan,48205,Central,36,3,34,3,9799.923000000003,3,9,225.91999999999985,High-Value,1
+506,JO-15280,Jas O'Carroll,Male,19,Consumer,Philadelphia,Pennsylvania,19120,East,92,3,11,1,1934.272,1,5,200.24,High-Value,0
+507,JD-16060,Julia Dunbar,Female,13,Consumer,Rochester,Minnesota,55901,Central,241,2,6,1,695.442,0,3,110.82000000000001,Mid-Value,0
+508,CS-11860,Cari Schnelling,Male,24,Consumer,Jacksonville,North Carolina,28540,South,23,3,7,1,537.6320000000001,0,4,104.22,Mid-Value,0
+509,JC-15775,John Castell,Male,29,Home Office,Atlanta,Georgia,30318,South,158,3,16,2,2772.0550000000007,1,6,277.63,High-Value,2
+510,CM-12445,Chuck Magee,Male,18,Consumer,Redlands,California,92374,West,436,2,9,1,287.99,0,3,63.73000000000001,Mid-Value,0
+511,MH-17290,Marc Harrigan,Male,36,Corporate,Los Angeles,California,90036,West,57,3,13,2,2394.0249999999996,1,6,26.32000000000008,High-Value,0
+512,KL-16645,Ken Lonsdale,Male,24,Consumer,Seattle,Washington,98105,West,47,3,29,3,14175.229,3,9,801.0400000000002,High-Value,1
+513,JP-16135,Julie Prescott,Female,60,Corporate,Los Angeles,California,90032,West,25,3,13,2,1707.7099999999998,0,5,307.71000000000004,High-Value,0
+514,AR-10510,Andrew Roberts,Male,12,Consumer,Columbus,Ohio,43229,East,14,3,7,1,264.86400000000003,0,4,42.15,Mid-Value,0
+515,JF-15415,Jennifer Ferguson,Female,41,Home Office,Seattle,Washington,98105,West,2,3,14,2,2371.4480000000003,1,6,634.6399999999999,High-Value,0
+516,JH-15910,Jonathan Howell,Male,12,Consumer,Tulsa,Oklahoma,74133,Central,25,3,9,1,959.477,0,4,-14.849999999999984,Mid-Value,0
+517,JK-16120,Julie Kriz,Female,39,Home Office,New York City,New York,10009,East,55,3,17,2,2932.484,1,6,119.16000000000003,High-Value,2
+518,MS-17530,MaryBeth Skach,Male,22,Consumer,Seattle,Washington,98105,West,434,2,7,1,475.65599999999995,0,3,82.91999999999999,Mid-Value,0
+519,MB-18085,Mick Brown,Male,18,Consumer,Charlotte,North Carolina,28205,South,44,3,10,1,1428.231,0,4,115.8,Mid-Value,0
+520,AR-10405,Allen Rosenblatt,Female,23,Consumer,Trenton,Michigan,48183,Central,125,3,7,1,2236.1279999999997,1,5,-99.46000000000004,High-Value,0
+521,AP-10720,Anne Pryor,Female,21,Consumer,New York City,New York,10011,East,41,3,19,2,1638.5539999999996,0,5,282.7,High-Value,0
+522,TB-21190,Thomas Brumley,Male,13,Consumer,Riverside,California,92503,West,49,3,4,0,816.174,0,3,178.91,Mid-Value,0
+523,TG-21640,Trudy Glocke,Male,39,Home Office,Saint Charles,Missouri,63301,Central,174,3,10,1,2074.661,1,5,364.4,High-Value,0
+524,TH-21235,Tiffany House,Female,40,Home Office,Yuma,Arizona,85364,West,146,3,13,2,1022.201,0,5,90.02000000000001,High-Value,0
+525,DM-12955,Dario Medina,Male,36,Corporate,Fairfield,Ohio,45014,East,174,3,9,1,1322.0340000000003,0,4,107.26,Mid-Value,0
+526,TB-21400,Tom Boeckenhauer,Male,16,Consumer,Los Angeles,California,90036,West,54,3,17,2,9133.99,2,7,2797.1699999999996,High-Value,1
+527,PS-18970,Paul Stevenson,Male,27,Home Office,Los Angeles,California,90049,West,69,3,13,2,1278.6390000000001,0,5,197.82999999999996,High-Value,0
+528,JG-15115,Jack Garza,Male,20,Consumer,Charlotte,North Carolina,28205,South,1024,0,7,1,2358.676,1,2,682.5,Low-Value,0
+529,BB-11545,Brenda Bowman,Female,12,Consumer,Columbia,Maryland,21044,East,22,3,20,2,6765.727999999999,2,7,1011.1599999999997,High-Value,2
+530,FG-14260,Frank Gastineau,Male,13,Consumer,Philadelphia,Pennsylvania,19120,East,34,3,11,1,1383.1440000000002,0,4,393.44000000000005,Mid-Value,0
+531,PT-19090,Pete Takahito,Male,24,Consumer,Jacksonville,Florida,32216,South,71,3,7,1,160.57200000000003,0,4,-22.65,Mid-Value,0
+532,PB-19150,Philip Brown,Male,27,Home Office,Seattle,Washington,98115,West,97,3,11,1,1456.95,0,4,279.26,Mid-Value,0
+533,DC-13285,Debra Catini,Female,52,Corporate,Plantation,Florida,33317,South,171,3,7,1,1174.618,0,4,131.53,Mid-Value,0
+534,JL-15175,James Lanier,Male,35,Corporate,Reno,Nevada,89502,West,6,3,7,1,1571.523,0,4,207.77999999999997,Mid-Value,0
+535,SV-20935,Susan Vittorini,Female,20,Consumer,Peoria,Arizona,85345,West,2,3,13,2,1903.4909999999998,0,5,103.9,High-Value,0
+536,AG-10765,Anthony Garverick,Male,23,Consumer,Lawrence,Indiana,46226,Central,77,3,5,0,170.584,0,3,-10.719999999999999,Mid-Value,0
+537,HG-14845,Harry Greene,Male,15,Consumer,Houston,Texas,77041,Central,111,3,10,1,785.628,0,4,145.11,Mid-Value,0
+538,HZ-14950,Henia Zydlo,Female,17,Consumer,Houston,Texas,77095,Central,35,3,6,1,886.5199999999999,0,4,-131.59,Mid-Value,0
+539,FM-14290,Frank Merwin,Male,18,Consumer,Bryan,Texas,77803,Central,36,3,20,2,3736.1980000000003,1,6,194.51,High-Value,2
+540,AC-10615,Ann Chong,Female,16,Consumer,Beaumont,Texas,77705,Central,6,3,18,2,2537.686,1,6,296.81999999999994,High-Value,2
+541,BT-11485,Brad Thomas,Male,18,Consumer,Philadelphia,Pennsylvania,19140,East,422,2,3,0,415.19599999999997,0,2,126.67,Low-Value,0
+542,BP-11290,Beth Paige,Female,43,Corporate,Los Angeles,California,90008,West,12,3,16,2,2475.1570000000006,1,6,-323.87,High-Value,0
+543,AS-10240,Alan Shonely,Male,17,Consumer,Philadelphia,Pennsylvania,19140,East,192,2,13,2,584.6080000000001,0,4,30.219999999999995,Mid-Value,0
+544,PO-18865,Patrick O'Donnell,Male,44,Home Office,Columbia,South Carolina,29203,South,0,3,13,2,2493.2140000000004,1,6,437.24999999999994,High-Value,2
+545,KB-16315,Karl Braun,Male,20,Consumer,Minneapolis,Minnesota,55407,Central,118,3,22,3,1569.464,0,6,45.42000000000001,High-Value,0
+546,AD-10180,Alan Dominguez,Male,58,Corporate,Houston,Texas,77041,Central,47,3,12,1,6106.879999999998,2,6,1869.22,High-Value,2
+547,SJ-20500,Shirley Jackson,Female,12,Consumer,Houston,Texas,77036,Central,253,2,7,1,1318.7759999999998,0,3,67.08999999999999,Mid-Value,0
+548,DK-13150,David Kendrick,Male,25,Consumer,Decatur,Illinois,62521,Central,10,3,5,0,797.832,0,3,249.34000000000003,Mid-Value,0
+549,RM-19675,Robert Marley,Male,42,Corporate,Monroe,Louisiana,71203,South,6,3,11,1,5979.096,2,6,1902.05,High-Value,2
+550,LC-17140,Logan Currie,Male,13,Consumer,Dallas,Texas,75220,Central,13,3,19,2,2633.5820000000003,1,6,227.61999999999998,High-Value,2
+551,CC-12670,Craig Carreira,Female,18,Consumer,New York City,New York,10009,East,195,2,14,2,2269.7015,1,5,185.48,High-Value,0
+552,KH-16690,Kristen Hastings,Female,36,Corporate,San Francisco,California,94110,West,2,3,15,2,5990.798999999999,2,7,1225.6100000000001,High-Value,2
+553,BT-11530,Bradley Talbott,Male,45,Home Office,Los Angeles,California,90036,West,91,3,10,1,2684.492,1,5,408.48999999999995,High-Value,2
+554,SW-20755,Steven Ward,Male,19,Consumer,New York City,New York,10009,East,534,1,8,1,758.696,0,2,67.44,Low-Value,0
+555,KT-16480,Kean Thornton,Male,21,Consumer,Buffalo,New York,14215,East,100,3,13,2,4642.088400000001,1,6,192.14999999999998,High-Value,2
+556,NP-18700,Nora Preis,Female,40,Corporate,Fresno,California,93727,West,138,3,13,2,7903.182500000001,2,7,628.68,High-Value,1
+557,QJ-19255,Quincy Jones,Female,26,Home Office,Saint Paul,Minnesota,55106,Central,232,2,13,2,6108.338,2,6,1202.0899999999997,High-Value,2
+558,VD-21670,Valerie Dominguez,Female,53,Corporate,Pleasant Grove,Utah,84062,West,581,1,16,2,6442.254000000001,2,5,1616.6,High-Value,2
+559,BT-11305,Beth Thompson,Female,25,Home Office,Costa Mesa,California,92627,West,336,2,9,1,2567.656,1,4,417.18,Mid-Value,2
+560,IM-15070,Irene Maddox,Female,42,Home Office,Florence,Alabama,35630,South,555,1,21,3,4930.473999999999,2,6,511.15999999999997,High-Value,2
+561,BD-11320,Bill Donatelli,Male,19,Consumer,Providence,Rhode Island,2908,East,26,3,19,2,5718.521000000001,2,7,1093.0099999999998,High-Value,2
+562,ON-18715,Odella Nelson,Female,13,Consumer,Philadelphia,Pennsylvania,19120,East,410,2,15,2,1567.52,0,4,-8.279999999999973,Mid-Value,0
+563,DW-13540,Don Weiss,Male,12,Consumer,Jackson,Tennessee,38301,South,98,3,9,1,344.08,0,4,68.06,Mid-Value,0
+564,MC-18130,Mike Caudle,Male,14,Consumer,Newark,Delaware,19711,East,369,2,11,1,1581.998,0,3,121.14,Mid-Value,0
+565,JE-15475,Jeremy Ellison,Male,31,Home Office,Seattle,Washington,98103,West,193,2,13,2,1388.682,0,4,273.84000000000003,Mid-Value,0
+566,RD-19480,Rick Duston,Male,37,Home Office,Olympia,Washington,98502,West,72,3,15,2,4272.93,1,6,478.99,High-Value,2
+567,AB-10150,Aimee Bixby,Male,14,Consumer,Carrollton,Texas,75007,Central,41,3,12,1,966.7100000000002,0,4,312.06000000000006,Mid-Value,0
+568,MM-18055,Michelle Moray,Female,56,Corporate,Chicago,Illinois,60610,Central,61,3,19,2,2749.881,1,6,-524.36,High-Value,2
+569,EM-14065,Erin Mull,Female,12,Consumer,Jacksonville,North Carolina,28540,South,47,3,6,1,228.99,0,4,38.650000000000006,Mid-Value,0
+570,RK-19300,Ralph Kennedy,Male,45,Home Office,South Bend,Indiana,46614,Central,324,2,8,1,1460.192,0,3,269.09000000000003,Mid-Value,0
+571,AC-10420,Alyssa Crouse,Female,30,Home Office,Houston,Texas,77041,Central,25,3,5,0,925.8,0,3,-63.730000000000004,Mid-Value,0
+572,CC-12145,Charles Crestani,Male,18,Consumer,Seattle,Washington,98103,West,106,3,11,1,2471.65,1,5,391.39,High-Value,2
+573,PG-18895,Paul Gonzalez,Male,20,Consumer,San Francisco,California,94122,West,65,3,17,2,1987.1639999999998,1,6,332.9100000000001,High-Value,0
+574,JP-15520,Jeremy Pistek,Male,24,Consumer,Port Orange,Florida,32127,South,8,3,16,2,3635.594,1,6,756.2399999999999,High-Value,2
+575,Co-12640,Corey-Lock,Female,45,Home Office,Florence,South Carolina,29501,South,549,1,8,1,1300.076,0,2,204.23,Low-Value,0
+576,CH-12070,Cathy Hwang,Female,29,Home Office,Detroit,Michigan,48227,Central,515,1,4,0,1537.2360000000003,0,1,194.56,Low-Value,0
+577,SC-20230,Scot Coram,Male,42,Corporate,Arlington,Texas,76017,Central,297,2,11,1,4371.9580000000005,1,4,438.9400000000001,Mid-Value,2
+578,GM-14500,Gene McClure,Male,45,Home Office,Fresno,California,93727,West,106,3,13,2,1255.6819999999998,0,5,439.81999999999994,High-Value,0
+579,RF-19345,Randy Ferguson,Male,14,Consumer,Dover,New Hampshire,3820,East,397,2,16,2,3309.1500000000005,1,5,631.4999999999999,High-Value,2
+580,HK-14890,Heather Kirkland,Female,24,Consumer,Salinas,California,93905,West,279,2,15,2,4877.784,2,6,953.7699999999999,High-Value,2
+581,CG-12040,Catherine Glotzbach,Female,19,Consumer,Bristol,Tennessee,37620,South,49,3,9,1,904.468,0,4,84.80999999999999,Mid-Value,0
+582,DJ-13630,Doug Jacobs,Male,42,Home Office,Portland,Oregon,97206,West,12,3,8,1,3356.398,1,5,731.07,High-Value,2
+583,TG-21310,Toby Gnade,Male,41,Corporate,Los Angeles,California,90049,West,337,2,9,1,3058.3720000000003,1,4,680.27,Mid-Value,2
+584,MO-17800,Meg O'Connel,Male,36,Corporate,Roswell,Georgia,30076,South,104,3,11,1,1687.027,0,4,167.54,Mid-Value,0
+585,BM-11575,Brendan Murry,Female,18,Consumer,New York City,New York,10035,East,100,3,10,1,808.1619999999999,0,4,93.78,Mid-Value,0
+586,MP-17965,Michael Paige,Male,40,Home Office,Warwick,Rhode Island,2886,East,72,3,20,2,3983.6420000000003,1,6,633.0499999999998,High-Value,2
+587,CM-12385,Christopher Martinez,Male,30,Home Office,North Charleston,South Carolina,29406,South,37,3,10,1,8954.02,2,6,3898.71,High-Value,1
+588,DB-13405,Denny Blanton,Female,19,Consumer,New York City,New York,10011,East,187,2,14,2,1711.692,0,4,438.52,Mid-Value,0
+589,GM-14695,Greg Maxwell,Male,52,Corporate,Los Angeles,California,90036,West,265,2,11,1,6049.966000000002,2,5,188.12,High-Value,2
+590,CB-12535,Claudia Bergmann,Female,14,Consumer,Newark,Delaware,19711,East,197,2,19,2,4246.4555,1,5,1048.6000000000001,High-Value,2
+591,NB-18580,Nicole Brennan,Female,45,Home Office,Philadelphia,Pennsylvania,19134,East,1165,0,2,0,273.87199999999996,0,0,24.59,Low-Value,0
+592,CM-12235,Chris McAfee,Male,35,Corporate,Carrollton,Texas,75007,Central,387,2,8,1,2305.712,1,4,364.42999999999995,Mid-Value,0
+593,MC-17635,Matthew Clasen,Male,18,Consumer,Saint Louis,Missouri,63116,Central,189,2,8,1,795.1540000000001,0,3,-249.34000000000003,Mid-Value,0
+594,BF-11170,Ben Ferrer,Male,25,Consumer,Raleigh,North Carolina,27604,South,16,3,27,3,5907.972000000002,2,8,1534.92,High-Value,2
+595,AS-10225,Alan Schoenberger,Male,14,Consumer,Provo,Utah,84604,West,104,3,13,2,4260.784000000001,1,6,718.97,High-Value,2
+596,BD-11725,Bruce Degenhardt,Male,20,Consumer,Newark,Ohio,43055,East,93,3,10,1,1526.5,0,4,333.79,Mid-Value,0
+597,FM-14380,Fred McMath,Male,17,Consumer,Jacksonville,North Carolina,28540,South,175,3,14,2,2523.266,1,6,189.29999999999998,High-Value,2
+598,TM-21010,Tamara Manning,Female,55,Corporate,Vacaville,California,95687,West,103,3,19,2,2955.225999999999,1,6,572.3000000000001,High-Value,2
+599,ES-14020,Erica Smith,Female,34,Home Office,New York City,New York,10035,East,40,3,8,1,3510.4579999999996,1,5,1002.3,High-Value,2
+600,CC-12370,Christopher Conant,Male,31,Home Office,Fayetteville,North Carolina,28314,South,43,3,11,1,12129.072,3,7,2173.9499999999994,High-Value,1
+601,AF-10885,Art Foster,Male,18,Consumer,Toledo,Ohio,43615,East,445,2,7,1,861.5649999999998,0,3,-164.93,Mid-Value,0
+602,BK-11260,Berenike Kampe,Female,21,Consumer,San Francisco,California,94110,West,77,3,16,2,659.138,0,5,-67.05999999999999,High-Value,0
+603,BP-11155,Becky Pak,Male,24,Consumer,Columbus,Georgia,31907,South,84,3,11,1,1697.8609999999999,0,4,646.48,Mid-Value,0
+604,JF-15565,Jill Fjeld,Male,54,Corporate,Fayetteville,North Carolina,28314,South,202,2,16,2,4198.332,1,5,1070.39,High-Value,2
+605,BP-11230,Benjamin Patterson,Male,39,Corporate,Troy,Ohio,45373,East,39,3,6,1,1181.4900000000002,0,4,-197.67999999999998,Mid-Value,0
+606,SW-20350,Sean Wendt,Male,49,Corporate,Detroit,Michigan,48227,Central,162,3,6,1,1019.0439999999999,0,4,94.54000000000002,Mid-Value,0
+607,KN-16450,Kean Nguyen,Male,17,Consumer,Visalia,California,93277,West,141,3,8,1,2171.962,1,5,112.05000000000001,High-Value,0
+608,MS-17365,Maribeth Schnelling,Female,18,Consumer,New York City,New York,10035,East,360,2,24,3,7443.6900000000005,2,7,841.1000000000001,High-Value,1
+609,ST-20530,Shui Tom,Male,22,Consumer,Macon,Georgia,31204,South,125,3,12,1,433.34,0,4,82.06,Mid-Value,0
+610,DM-13345,Denise Monton,Female,18,Consumer,Des Moines,Iowa,50315,Central,140,3,13,2,4074.472,1,6,1317.77,High-Value,2
+611,MD-17350,Maribeth Dona,Female,23,Consumer,Akron,Ohio,44312,East,88,3,17,2,3766.382,1,6,-247.58000000000004,High-Value,2
+612,DB-12910,Daniel Byrd,Male,17,Consumer,Dallas,Texas,75220,Central,51,3,12,1,2171.599,1,5,429.53,High-Value,0
+613,MF-17665,Maureen Fritzler,Female,20,Consumer,Toledo,Ohio,43615,East,485,1,8,1,937.039,0,2,-342.63,Low-Value,0
+614,RM-19750,Roland Murray,Male,15,Consumer,New York City,New York,10011,East,210,2,2,0,98.35,0,2,28.68,Low-Value,0
+615,JJ-15760,Joel Jenkins,Male,31,Home Office,Houston,Texas,77036,Central,871,1,3,0,195.0,0,1,34.260000000000005,Low-Value,0
+616,AJ-10960,Astrea Jones,Female,16,Consumer,San Diego,California,92037,West,74,3,5,0,629.2479999999999,0,3,60.23,Mid-Value,0
+617,GW-14605,Giulietta Weimer,Female,28,Home Office,San Francisco,California,94122,West,154,3,9,1,2189.0190000000002,1,5,-269.95,High-Value,0
+618,AR-10540,Andy Reiter,Male,24,Consumer,Woonsocket,Rhode Island,2895,East,6,3,9,1,6608.447999999999,2,6,2884.0099999999993,High-Value,1
+619,GA-14515,George Ashbrook,Male,31,Home Office,New York City,New York,10011,East,189,2,14,2,3919.7760000000003,1,5,839.99,High-Value,2
+620,NP-18685,Nora Pelletier,Female,53,Corporate,Indianapolis,Indiana,46203,Central,406,2,7,1,1228.698,0,3,513.2,Mid-Value,0
+621,SM-20950,Suzanne McNair,Female,19,Consumer,Omaha,Nebraska,68104,Central,163,3,22,3,5563.392,2,8,578.7700000000003,High-Value,2
+622,MG-18145,Mike Gockenbach,Male,21,Consumer,Jacksonville,Florida,32216,South,156,3,8,1,3061.543,1,5,-95.13000000000002,High-Value,2
+623,CS-12175,Charles Sheldon,Male,21,Consumer,Iowa City,Iowa,52240,Central,25,3,8,1,844.4580000000001,0,4,111.85000000000001,Mid-Value,0
+624,AM-10705,Anne McFarland,Female,18,Consumer,Cranston,Rhode Island,2920,East,162,3,22,3,5664.022,2,8,1084.3500000000001,High-Value,2
+625,PF-19120,Peter Fuller,Male,14,Consumer,Richmond,Kentucky,40475,South,835,1,19,2,9062.863999999998,2,5,-616.5999999999999,High-Value,1
+626,DE-13255,Deanra Eno,Female,12,Consumer,Lakewood,Ohio,44107,East,424,2,9,1,2550.874,1,4,463.47999999999996,Mid-Value,2
+627,AH-10585,Angele Hood,Female,14,Consumer,Seattle,Washington,98105,West,109,3,5,0,738.504,0,3,83.37,Mid-Value,0
+628,LH-16900,Lena Hernandez,Female,22,Consumer,Elkhart,Indiana,46514,Central,109,3,15,2,2295.3320000000003,1,6,524.17,High-Value,0
+629,GH-14665,Greg Hansen,Male,18,Consumer,Chicago,Illinois,60610,Central,2,3,3,0,146.94080000000002,0,3,-6.529999999999999,Mid-Value,0
+630,TS-21430,Tom Stivers,Male,25,Consumer,Los Angeles,California,90045,West,53,3,7,1,2054.1400000000003,1,5,47.599999999999994,High-Value,0
+631,NL-18310,Nancy Lomonaco,Female,13,Consumer,Danville,California,94526,West,322,2,10,1,1418.0900000000004,0,3,343.03999999999996,Mid-Value,0
+632,DS-13180,David Smith,Male,34,Home Office,Houston,Texas,77095,Central,171,3,20,2,2881.8127999999997,1,6,160.61,High-Value,2
+633,HA-14905,Helen Abelman,Female,12,Consumer,Fort Collins,Colorado,80525,West,69,3,10,1,2163.3,1,5,268.56,High-Value,0
+634,NR-18550,Nick Radford,Male,31,Home Office,Aurora,Illinois,60505,Central,299,2,13,2,2367.277,1,5,-28.030000000000058,High-Value,0
+635,EB-14110,Eugene Barchas,Female,60,Corporate,Philadelphia,Pennsylvania,19134,East,143,3,11,1,3071.1259999999997,1,5,182.46000000000004,High-Value,2
+636,MS-17830,Melanie Seite,Female,25,Consumer,Rochester,New York,14609,East,629,1,5,0,370.348,0,1,18.529999999999998,Low-Value,0
+637,TB-21175,Thomas Boland,Male,14,Consumer,Henderson,Kentucky,42420,South,322,2,11,1,3589.2959999999994,1,4,828.1800000000001,Mid-Value,2
+638,MH-18115,Mick Hernandez,Male,12,Consumer,Huntsville,Alabama,35810,South,5,3,22,3,5503.093,2,8,167.28000000000014,High-Value,2
+639,DP-13000,Darren Powers,Male,24,Consumer,Fort Lauderdale,Florida,33311,South,126,3,17,2,1050.636,0,5,237.85,High-Value,0
+640,AH-10465,Amy Hunt,Female,51,Corporate,Dallas,Texas,75217,Central,230,2,8,1,2495.3916,1,4,-197.25,Mid-Value,0
+641,AZ-10750,Annie Zypern,Female,22,Consumer,New York City,New York,10024,East,160,3,12,1,1622.0180000000003,0,4,153.46000000000004,Mid-Value,0
+642,EJ-14155,Eva Jacobs,Female,12,Consumer,Seattle,Washington,98105,West,230,2,8,1,2656.691,1,4,451.37999999999994,Mid-Value,2
+643,LS-17230,Lycoris Saunders,Female,12,Consumer,Los Angeles,California,90049,West,777,1,6,1,368.88,0,2,38.49,Low-Value,0
+644,DW-13195,David Wiener,Male,24,Consumer,Springfield,Oregon,97477,West,69,3,9,1,1080.751,0,4,-89.07000000000001,Mid-Value,0
+645,JW-15220,Jane Waco,Female,17,Consumer,Montgomery,Alabama,36116,South,42,3,14,2,7721.714,2,7,2172.7099999999996,High-Value,1
+646,DB-13615,Doug Bickford,Male,22,Consumer,San Francisco,California,94110,West,33,3,11,1,1989.0499999999997,1,5,437.20000000000005,High-Value,0
+647,ML-17395,Marina Lichtenstein,Male,39,Home Office,Lakewood,New Jersey,8701,East,69,3,20,2,2722.843,1,6,681.48,High-Value,2
+648,CR-12580,Clay Rozendal,Female,23,Consumer,New York City,New York,10009,East,294,2,6,1,2148.852,1,4,73.6,Mid-Value,0
+649,AJ-10795,Anthony Johnson,Male,16,Consumer,Apple Valley,California,92307,West,166,3,21,3,4501.391,1,7,1156.9600000000003,High-Value,2
+650,SC-20440,Shaun Chance,Male,20,Consumer,New York City,New York,10009,East,36,3,10,1,1874.998,0,4,376.7600000000001,Mid-Value,0
+651,MG-18205,Mitch Gastineau,Female,14,Consumer,Jacksonville,Florida,32216,South,87,3,2,0,16.739,0,3,-2.14,Mid-Value,0
+652,LD-17005,Lisa DeCherney,Female,51,Corporate,New York City,New York,10011,East,414,2,7,1,1961.934,1,4,556.95,Mid-Value,0
+653,MH-17440,Mark Haberlin,Male,16,Consumer,New York City,New York,10035,East,376,2,9,1,400.016,0,3,60.730000000000004,Mid-Value,0
+654,JB-16000,Joy Bell-,Female,24,Consumer,Los Angeles,California,90045,West,43,3,7,1,644.1188,0,4,126.24,Mid-Value,0
+655,AR-10825,Anthony Rawles,Male,53,Corporate,Columbus,Ohio,43229,East,162,3,13,2,4523.336,1,6,493.83,High-Value,2
+656,TT-21460,Tonja Turnell,Male,26,Home Office,Houston,Texas,77095,Central,12,3,14,2,5364.808,2,7,1122.7,High-Value,2
+657,SP-20545,Sibella Parks,Female,12,Consumer,Philadelphia,Pennsylvania,19143,East,211,2,10,1,1306.086,0,3,-121.36999999999999,Mid-Value,0
+658,GT-14710,Greg Tran,Male,12,Consumer,New York City,New York,10024,East,36,3,29,3,11820.119999999999,3,9,2160.52,High-Value,1
+659,DR-12940,Daniel Raglin,Male,45,Corporate,Lake Charles,Louisiana,70601,South,52,3,13,2,8350.868,2,7,2867.08,High-Value,1
+660,DB-12970,Darren Budd,Male,44,Home Office,New York City,New York,10035,East,300,2,14,2,2839.2272000000003,1,5,210.69,High-Value,2
+661,MF-18250,Monica Federle,Female,20,Consumer,Little Rock,Arkansas,72209,South,7,3,12,1,1758.3,0,4,456.06000000000006,Mid-Value,0
+662,VS-21820,Vivek Sundaresam,Female,47,Corporate,Naperville,Illinois,60540,Central,221,2,8,1,1055.9809999999998,0,3,-266.61,Mid-Value,0
+663,BN-11470,Brad Norvell,Male,13,Consumer,Brentwood,California,94513,West,201,2,6,1,265.29600000000005,0,3,35.61,Mid-Value,0
+664,SM-20005,Sally Matthias,Female,14,Consumer,New York City,New York,10035,East,555,1,6,1,244.49399999999997,0,2,-28.18999999999999,Low-Value,0
+665,DF-13135,David Flashing,Male,30,Home Office,New York City,New York,10009,East,700,1,6,1,2390.5339999999997,1,3,-261.01000000000005,Mid-Value,0
+666,SG-20890,Susan Gilcrest,Female,25,Consumer,Amarillo,Texas,79109,Central,226,2,5,0,47.946,0,2,-5.699999999999999,Low-Value,0
+667,KH-16330,Katharine Harms,Female,35,Corporate,Newark,Ohio,43055,East,40,3,18,2,3312.864,1,6,452.29,High-Value,2
+668,IG-15085,Ivan Gibson,Male,24,Consumer,Seattle,Washington,98103,West,71,3,7,1,744.5740000000001,0,4,320.29,Mid-Value,0
+669,SG-20605,Speros Goranitis,Female,34,Home Office,San Francisco,California,94109,West,108,3,13,2,3124.832000000001,1,6,462.06999999999994,High-Value,2
+670,GZ-14545,George Zrebassa,Male,18,Consumer,Thousand Oaks,California,91360,West,85,3,5,0,2454.622,1,4,828.46,Mid-Value,2
+671,JF-15190,Jamie Frazer,Female,41,Home Office,Long Beach,California,90805,West,65,3,19,2,2279.586,1,6,572.8199999999998,High-Value,0
+672,LT-16765,Larry Tron,Male,17,Consumer,Fairfield,Ohio,45014,East,262,2,3,0,329.87600000000003,0,2,58.64,Low-Value,0
+673,NP-18670,Nora Paige,Female,42,Corporate,Seattle,Washington,98105,West,20,3,10,1,3908.402,1,5,514.4,High-Value,2
+674,EB-13705,Ed Braxton,Male,39,Corporate,Philadelphia,Pennsylvania,19140,East,19,3,12,1,3644.978,1,5,10.520000000000017,High-Value,2
+675,JK-15325,Jason Klamczynski,Male,12,Consumer,Atlantic City,New Jersey,8401,East,287,2,4,0,383.812,0,2,54.93,Low-Value,0
+676,CW-11905,Carl Weiss,Female,30,Home Office,Newark,Delaware,19711,East,140,3,11,1,1136.5919999999999,0,4,369.84000000000003,Mid-Value,0
+677,TS-21655,Trudy Schmidt,Male,19,Consumer,El Paso,Texas,79907,Central,208,2,14,2,3368.094,1,5,218.19999999999996,High-Value,2
+678,LR-17035,Lisa Ryan,Female,17,Consumer,Santa Clara,California,95051,West,132,3,12,1,1879.306,0,4,-386.1,Mid-Value,0
+679,SR-20425,Sharelle Roach,Female,44,Home Office,Springfield,Ohio,45503,East,8,3,9,1,3233.481,1,5,-3337.21,High-Value,2
+680,JB-16045,Julia Barnett,Female,16,Consumer,Columbus,Ohio,43229,East,7,3,9,1,2518.1150000000002,1,5,199.82,High-Value,2
+681,MC-17590,Matt Collister,Male,13,Consumer,San Marcos,Texas,78666,Central,110,3,17,2,2426.067,1,6,286.09,High-Value,0
+682,KM-16660,Khloe Miller,Female,12,Consumer,Philadelphia,Pennsylvania,19140,East,15,3,9,1,453.53799999999995,0,4,90.75,Mid-Value,0
+683,Dl-13600,Dorris liebe,Female,60,Corporate,New York City,New York,10035,East,146,3,6,1,755.6020000000001,0,4,173.92999999999998,Mid-Value,0
+684,EB-13870,Emily Burns,Female,22,Consumer,Franklin,Tennessee,37064,South,88,3,11,1,2767.2189999999996,1,5,258.32,High-Value,2
+685,TZ-21580,Tracy Zic,Female,19,Consumer,Lakewood,California,90712,West,35,3,9,1,1707.2860000000003,0,4,224.1,Mid-Value,0
+686,ME-18010,Michelle Ellison,Female,13,Consumer,Seattle,Washington,98105,West,92,3,6,1,1256.944,0,4,106.35,Mid-Value,0
+687,NH-18610,Nicole Hansen,Female,34,Home Office,Oak Park,Michigan,48237,Central,148,3,11,1,2673.29,1,5,759.57,High-Value,2
+688,KB-16240,Karen Bern,Female,18,Consumer,Miami,Florida,33180,South,4,3,10,1,3152.615,1,5,762.4200000000001,High-Value,2
+689,TH-21115,Thea Hudgings,Female,19,Consumer,Philadelphia,Pennsylvania,19140,East,322,2,9,1,2942.7720000000004,1,4,-254.65,Mid-Value,2
+690,MG-17890,Michael Granlund,Male,16,Consumer,Santa Barbara,California,93101,West,99,3,13,2,776.3839999999999,0,5,170.19000000000003,High-Value,0
+691,JK-16090,Juliana Krohn,Female,47,Corporate,Omaha,Nebraska,68104,Central,321,2,9,1,3747.668,1,4,584.8699999999999,Mid-Value,2
+692,SC-20050,Sample Company A,Male,14,Consumer,La Mesa,California,91941,West,40,3,15,2,4624.572,1,6,1008.93,High-Value,2
+693,ML-18040,Michelle Lonsdale,Female,16,Consumer,Dearborn,Michigan,48126,Central,20,3,4,0,742.082,0,3,137.70999999999998,Mid-Value,0
+694,SH-19975,Sally Hughsby,Female,20,Consumer,Dallas,Texas,75081,Central,64,3,29,3,3406.8395,1,7,554.4999999999999,High-Value,2
+695,KM-16225,Kalyca Meade,Female,22,Consumer,Baltimore,Maryland,21215,East,14,3,19,2,2260.958,1,6,634.7200000000001,High-Value,0
+696,SS-20875,Sung Shariari,Female,23,Consumer,Marion,Ohio,43302,East,355,2,15,2,964.636,0,4,-79.17000000000002,Mid-Value,0
+697,BW-11065,Barry Weirich,Female,17,Consumer,Raleigh,North Carolina,27604,South,358,2,3,0,385.516,0,2,-58.69,Low-Value,0
+698,LM-17065,Liz MacKendrick,Female,25,Consumer,Auburn,New York,13021,East,570,1,7,1,1346.774,0,2,-45.28,Low-Value,0
+699,JD-15790,John Dryer,Male,15,Consumer,Los Angeles,California,90049,West,265,2,7,1,2152.352,1,4,-267.76,Mid-Value,0
+700,DO-13645,Doug O'Connell,Male,16,Consumer,Los Angeles,California,90036,West,33,3,11,1,1267.316,0,4,293.07000000000005,Mid-Value,0
+701,BS-11665,Brian Stugart,Male,53,Corporate,San Diego,California,92105,West,582,1,11,1,3288.1099999999997,1,3,236.73,Mid-Value,2
+702,DA-13450,Dianna Arnett,Female,25,Consumer,Virginia Beach,Virginia,23464,South,29,3,8,1,156.76000000000002,0,4,55.79,Mid-Value,0
+703,SS-20140,Saphhira Shifley,Female,18,Consumer,Los Angeles,California,90036,West,15,3,21,3,1324.028,0,6,329.93000000000006,High-Value,0
+704,EM-14200,Evan Minnotte,Male,20,Consumer,Virginia Beach,Virginia,23464,South,158,3,4,0,366.822,0,3,21.28,Mid-Value,0
+705,GB-14575,Giulietta Baptist,Female,40,Corporate,Columbia,South Carolina,29203,South,13,3,16,2,4716.288,2,7,1135.24,High-Value,2
+706,DK-12985,Darren Koutras,Male,18,Consumer,Hendersonville,Tennessee,37075,South,7,3,8,1,1687.0400000000002,0,4,-108.66999999999999,Mid-Value,0
+707,SB-20170,Sarah Bern,Female,21,Consumer,Chicago,Illinois,60623,Central,24,3,7,1,1348.02,0,4,156.37,Mid-Value,0
+708,BF-11275,Beth Fritzler,Female,39,Corporate,Miami,Florida,33178,South,84,3,4,0,791.99,0,3,25.279999999999994,Mid-Value,0
+709,AS-10630,Ann Steele,Female,14,Consumer,Louisville,Kentucky,40214,South,92,3,12,1,833.3979999999999,0,4,134.28,Mid-Value,0
+710,VT-21700,Valerie Takahito,Female,44,Home Office,Houston,Texas,77070,Central,971,0,9,1,1736.596,0,1,-227.09,Low-Value,0
+711,JW-16075,Julia West,Female,38,Corporate,Jacksonville,North Carolina,28540,South,461,2,7,1,1428.7309999999998,0,3,151.76,Mid-Value,0
+712,SS-20515,Shirley Schmidt,Female,16,Consumer,Louisville,Kentucky,40214,South,491,1,6,1,613.4000000000001,0,2,199.93000000000004,Low-Value,0
+713,LD-16855,Lela Donovan,Female,19,Consumer,Chicago,Illinois,60653,Central,552,1,1,0,5.303999999999999,0,1,0.26,Low-Value,0
+714,BP-11050,Barry Pond,Male,38,Corporate,Plainfield,New Jersey,7060,East,142,3,7,1,983.4199999999998,0,4,208.78000000000003,Mid-Value,0
+715,GH-14425,Gary Hwang,Male,14,Consumer,Seattle,Washington,98105,West,80,3,10,1,4172.846,1,5,1174.5099999999995,High-Value,2
+716,JE-16165,Justin Ellison,Male,23,Consumer,North Charleston,South Carolina,29406,South,71,3,7,1,2697.248,1,5,789.4499999999999,High-Value,2
+717,SH-20635,Stefanie Holloman,Female,35,Corporate,Sacramento,California,95823,West,765,1,2,0,2096.392,1,2,260.23,Low-Value,0
+718,JL-15235,Janet Lee,Female,19,Consumer,New York City,New York,10035,East,246,2,10,1,2203.7,1,4,52.31,Mid-Value,0
+719,GM-14680,Greg Matthias,Male,37,Corporate,New York City,New York,10011,East,152,3,11,1,3163.628,1,5,33.86999999999998,High-Value,2
+720,AR-10570,Anemone Ratner,Male,14,Consumer,Columbus,Georgia,31907,South,534,1,2,0,88.15,0,1,32.64,Low-Value,0
+721,JA-15970,Joseph Airdo,Male,19,Consumer,Detroit,Michigan,48227,Central,92,3,24,3,6491.026000000001,2,8,-824.5199999999999,High-Value,2
+722,PB-19105,Peter Bühler,Male,16,Consumer,Smyrna,Georgia,30080,South,99,3,5,0,688.324,0,3,217.56,Mid-Value,0
+723,BF-11005,Barry Franz,Female,14,Consumer,Aurora,Colorado,80013,West,39,3,10,1,1333.88,0,4,-293.1700000000001,Mid-Value,0
+724,JM-15580,Jill Matthias,Male,12,Consumer,Seattle,Washington,98105,West,0,3,7,1,303.948,0,4,112.32000000000001,Mid-Value,0
+725,CC-12685,Craig Carroll,Female,27,Home Office,Henderson,Kentucky,42420,South,799,1,12,1,2854.115,1,3,847.15,Mid-Value,2
+726,CD-11980,Carol Darley,Female,27,Home Office,New York City,New York,10011,East,202,2,6,1,639.766,0,3,-209.31,Mid-Value,0
+727,HP-14815,Harold Pawlan,Male,32,Home Office,Virginia Beach,Virginia,23464,South,30,3,10,1,1990.314,1,5,370.87,High-Value,0
+728,EB-13975,Erica Bern,Female,25,Consumer,Greensboro,North Carolina,27405,South,0,3,6,1,1643.255,0,4,161.19,Mid-Value,0
+729,GH-14410,Gary Hansen,Male,39,Corporate,Yuma,Arizona,85364,West,75,3,17,2,2819.4670000000006,1,6,-581.4299999999998,High-Value,2
+730,AG-10525,Andy Gerbode,Male,39,Corporate,Houston,Texas,77095,Central,905,0,9,1,1455.038,0,1,-154.15000000000003,Low-Value,0
+731,SN-20560,Skye Norling,Female,23,Consumer,San Francisco,California,94109,West,82,3,15,2,1860.418,0,5,-719.46,High-Value,0
+732,CS-12505,Cindy Stewart,Female,46,Corporate,Lancaster,Ohio,43130,East,322,2,9,1,5690.055,2,5,-6628.17,High-Value,2
+733,MO-17950,Michael Oakman,Male,14,Consumer,Jacksonville,North Carolina,28540,South,298,2,4,0,154.288,0,2,-83.41000000000001,Low-Value,0
+734,JS-15685,Jim Sink,Male,44,Home Office,Philadelphia,Pennsylvania,19140,East,42,3,11,1,1131.064,0,4,-57.169999999999995,Mid-Value,0
+735,DK-13225,Dean Katz,Male,54,Corporate,New York City,New York,10035,East,10,3,19,2,4802.394,2,7,206.20000000000007,High-Value,2
+736,LC-16960,Lindsay Castell,Female,21,Consumer,Arlington,Virginia,22204,South,436,2,7,1,3246.6260000000007,1,4,297.47,Mid-Value,2
+737,BO-11350,Bill Overfelt,Male,22,Consumer,Philadelphia,Pennsylvania,19134,East,137,3,12,1,2682.728,1,5,275.98,High-Value,2
+738,TH-21100,Thea Hendricks,Male,24,Consumer,Glendale,Arizona,85301,West,344,2,7,1,2422.824,1,4,-136.42000000000002,Mid-Value,0
+739,BD-11560,Brendan Dodson,Male,13,Consumer,Fresno,California,93727,West,278,2,4,0,320.53999999999996,0,2,116.71,Low-Value,0
+740,HD-14785,Harold Dahlen,Male,21,Consumer,Philadelphia,Pennsylvania,19143,East,769,1,7,1,251.36,0,2,-137.99,Low-Value,0
+741,RH-19555,Ritsa Hightower,Female,58,Corporate,Charlotte,North Carolina,28205,South,519,1,3,0,740.382,0,1,-1.2899999999999991,Low-Value,0
+742,NF-18475,Neil Französisch,Male,16,Consumer,Reno,Nevada,89502,West,525,1,4,0,377.162,0,1,84.92,Low-Value,0
+743,SW-20275,Scott Williamson,Male,15,Consumer,Seattle,Washington,98115,West,30,3,7,1,1966.65,1,5,332.66999999999996,High-Value,0
+744,RP-19855,Roy Phan,Male,54,Corporate,Woodbury,Minnesota,55125,Central,217,2,15,2,2170.716000000001,1,5,592.61,High-Value,0
+745,JL-15505,Jeremy Lonsdale,Male,13,Consumer,Houston,Texas,77070,Central,49,3,17,2,3173.8740000000003,1,6,590.51,High-Value,2
+746,VF-21715,Vicky Freymann,Male,23,Consumer,San Francisco,California,94109,West,13,3,11,1,847.944,0,4,-96.97999999999998,Mid-Value,0
+747,JH-16180,Justin Hirsh,Male,44,Home Office,Philadelphia,Pennsylvania,19140,East,404,2,5,0,2256.394,1,3,-98.06000000000002,Mid-Value,0
+748,DN-13690,Duane Noonan,Female,42,Corporate,Tulsa,Oklahoma,74133,Central,217,2,11,1,2139.79,1,4,540.3299999999999,Mid-Value,0
+749,RS-19870,Roy Skaria,Male,24,Consumer,Philadelphia,Pennsylvania,19120,East,48,3,3,0,22.328000000000003,0,3,9.379999999999999,Mid-Value,0
+750,CJ-12010,Caroline Jumper,Female,41,Corporate,Houston,Texas,77070,Central,189,2,20,2,11164.974,3,7,854.9799999999999,High-Value,1
+751,GH-14485,Gene Hale,Female,51,Corporate,Richardson,Texas,75080,Central,505,1,3,0,1361.244,0,1,-96.85000000000001,Low-Value,0
+752,SN-20710,Steve Nguyen,Male,32,Home Office,Houston,Texas,77041,Central,20,3,19,2,3127.9592000000007,1,6,479.5300000000001,High-Value,2
+753,JM-15265,Janet Molinari,Female,14,Consumer,New York City,New York,10024,East,37,3,13,2,1804.1460000000002,0,5,500.82999999999987,High-Value,0
+754,JC-16105,Julie Creighton,Female,45,Home Office,Durham,North Carolina,27707,South,68,3,9,1,858.576,0,4,201.2,Mid-Value,0
+755,ER-13855,Elpida Rittenbach,Female,16,Consumer,Saint Paul,Minnesota,55106,Central,569,1,5,0,1245.7879999999998,0,1,-296.73999999999995,Low-Value,0
+756,PF-19165,Philip Fox,Male,51,Corporate,Bloomington,Illinois,61701,Central,196,2,10,1,2770.0,1,4,196.38000000000002,Mid-Value,2
+757,CS-12130,Chad Sievert,Male,23,Consumer,Los Angeles,California,90004,West,489,1,7,1,884.64,0,2,143.03,Low-Value,0
+758,CA-12310,Christine Abelman,Female,25,Consumer,Cincinnati,Ohio,45231,East,13,3,11,1,1421.954,0,4,244.70999999999998,Mid-Value,0
+759,VP-21730,Victor Preis,Male,12,Consumer,Las Vegas,Nevada,89115,West,30,3,5,0,993.9019999999999,0,3,205.19,Mid-Value,0
+760,MK-18160,Mike Kennedy,Male,24,Consumer,Jacksonville,Florida,32216,South,269,2,11,1,1031.6019999999999,0,3,226.94,Mid-Value,0
+761,TB-21595,Troy Blackwell,Male,21,Consumer,Columbus,Indiana,47201,Central,285,2,7,1,1387.559,0,3,-138.3,Mid-Value,0
+762,BN-11515,Bradley Nguyen,Male,13,Consumer,Los Angeles,California,90049,West,9,3,17,2,1459.344,0,5,340.32,High-Value,0
+763,PH-18790,Patricia Hirasaki,Female,36,Corporate,Lakeland,Florida,33801,South,70,3,2,0,729.648,0,3,47.489999999999995,Mid-Value,0
+764,JC-15340,Jasper Cacioppo,Male,16,Consumer,Los Angeles,California,90032,West,174,3,4,0,71.26299999999999,0,3,-1.25,Mid-Value,0
+765,EB-13840,Ellis Ballard,Female,15,Consumer,Seattle,Washington,98105,West,354,2,8,1,4358.128,1,4,655.2,Mid-Value,2
+766,GP-14740,Guy Phonely,Male,24,Consumer,Lancaster,Pennsylvania,17602,East,765,1,5,0,236.53,0,1,31.14,Low-Value,0
+767,EL-13735,Ed Ludwig,Male,22,Consumer,Columbia,Maryland,21044,East,77,3,2,0,124.28,0,3,27.11,Mid-Value,0
+768,RP-19270,Rachel Payne,Female,22,Consumer,Riverside,California,92503,West,496,1,12,1,954.6451999999999,0,2,57.19999999999999,Low-Value,0
+769,KH-16360,Katherine Hughes,Female,13,Consumer,Philadelphia,Pennsylvania,19143,East,1,3,14,2,3100.6119999999996,1,6,526.1000000000001,High-Value,2
+770,JR-15700,Jocasta Rupert,Female,56,Corporate,Jacksonville,Florida,32216,South,68,3,1,0,863.88,0,3,107.79,Mid-Value,0
+771,CS-12460,Chuck Sachs,Male,13,Consumer,Columbus,Georgia,31907,South,293,2,6,1,550.6440000000001,0,3,155.85999999999999,Mid-Value,0
+772,LP-17095,Liz Preis,Female,21,Consumer,Murray,Kentucky,42071,South,9,3,15,2,3653.3990000000003,1,6,335.65,High-Value,2
+773,JR-15670,Jim Radford,Male,45,Corporate,Middletown,Connecticut,6457,East,593,1,3,0,1156.658,0,1,-786.0600000000001,Low-Value,0
+774,PC-19000,Pauline Chand,Male,13,Consumer,Los Angeles,California,90004,West,1087,0,3,0,1061.488,0,0,-184.73999999999998,Low-Value,0
+775,PL-18925,Paul Lucas,Male,19,Consumer,Chicago,Illinois,60610,Central,15,3,8,1,239.48100000000002,0,4,-2.7599999999999962,Mid-Value,0
+776,BO-11425,Bobby Odegard,Male,35,Home Office,Richmond,Kentucky,40475,South,75,3,2,0,130.83,0,3,59.46,Mid-Value,0
+777,JC-15385,Jenna Caffey,Female,42,Home Office,Kent,Washington,98031,West,145,3,4,0,1058.1080000000002,0,3,502.73,Mid-Value,0
+778,BS-11380,Bill Stewart,Male,13,Consumer,Skokie,Illinois,60076,Central,27,3,13,2,3887.834,1,6,-21.130000000000038,High-Value,2
+779,AF-10870,Art Ferguson,Male,39,Home Office,College Station,Texas,77840,Central,41,3,16,2,2052.908,1,6,314.77000000000004,High-Value,0
+780,CM-11935,Carlos Meador,Male,22,Consumer,Fayetteville,North Carolina,28314,South,708,1,4,0,565.3919999999999,0,1,-44.53000000000001,Low-Value,0
+781,BF-11215,Benjamin Farhat,Male,17,Consumer,Albuquerque,New Mexico,87105,West,65,3,8,1,1585.162,0,4,522.82,Mid-Value,0
+782,SC-20020,Sam Craven,Male,12,Consumer,Plano,Texas,75023,Central,811,1,17,2,3362.9636,1,4,-320.76000000000005,Mid-Value,2
+783,RB-19330,Randy Bradley,Male,21,Consumer,Philadelphia,Pennsylvania,19143,East,68,3,6,1,1008.1959999999999,0,4,-166.31,Mid-Value,0
+784,MG-17695,Maureen Gnade,Female,57,Corporate,Buffalo,New York,14215,East,555,1,7,1,1342.282,0,2,-400.59999999999997,Low-Value,0
+785,DK-12895,Dana Kaydos,Male,59,Corporate,Kenosha,Wisconsin,53142,Central,22,3,15,2,4282.175999999999,1,6,936.46,High-Value,2
+786,GR-14560,Georgia Rosenberg,Male,24,Consumer,San Francisco,California,94110,West,1135,0,5,0,1284.38,0,0,359.83,Low-Value,0
+787,DB-13360,Dennis Bolton,Female,57,Corporate,New York City,New York,10009,East,87,3,6,1,1081.466,0,4,290.51000000000005,Mid-Value,0
+788,KS-16300,Karen Seio,Female,12,Consumer,Lehi,Utah,84043,West,88,3,4,0,88.47200000000001,0,3,-0.9900000000000011,Mid-Value,0
+789,TC-21145,Theresa Coyne,Female,23,Consumer,Lakewood,New Jersey,8701,East,106,3,4,0,1038.26,0,3,265.53,Mid-Value,0
+790,HE-14800,Harold Engle,Male,29,Home Office,Chicago,Illinois,60623,Central,12,3,11,1,883.5320000000002,0,4,274.2,Mid-Value,0
+791,SC-20845,Sung Chung,Female,24,Consumer,Arlington Heights,Illinois,60004,Central,131,3,4,0,280.632,0,3,30.380000000000003,Mid-Value,0
+792,RE-19405,Ricardo Emerson,Male,20,Consumer,Kent,Ohio,44240,East,1097,0,1,0,48.36,0,0,5.84,Low-Value,0
+793,CT-91111,Jack Ross,Male,18,Consumer,Seattle,Washington,98103,West,1270,0,1,0,45.408,0,0,11.72,Low-Value,0
+794,CT-91112,Lily Randall,Female,29,Home Office,Charlottesville,Virginia,22901,South,1241,0,1,0,180.588,0,0,-241.48,Low-Value,0
+795,CT-91113,Anthony Rampling,Male,19,Consumer,Phoenix,Arizona,85023,West,1241,0,1,0,47.983999999999995,0,0,0.4,Low-Value,0
+796,CT-91114,Stephanie Chapman,Female,15,Consumer,Long Beach,New York,11561,East,1387,0,1,0,5.936,0,0,-9.7,Low-Value,0
+797,CT-91115,Jasmine Kerr,Female,14,Consumer,Los Angeles,California,90036,West,1432,0,1,0,62.352,0,0,-11.11,Low-Value,0
+798,CT-91116,Edward Slater,Male,19,Consumer,Brentwood,California,94513,West,1244,0,1,0,58.34,0,0,28.0,Low-Value,0
+799,CT-91117,Christian Jackson,Male,54,Corporate,Tampa,Florida,33614,South,1244,0,1,0,539.97,0,0,134.99,Low-Value,0
+800,CT-91118,Lucas Campbell,Male,35,Home Office,West Jordan,Utah,84084,West,1315,0,1,0,314.532,0,0,-84.28,Low-Value,0
+801,CT-91119,Rose North,Female,17,Consumer,Minneapolis,Minnesota,55407,Central,1352,0,1,0,8.448,0,0,2.76,Low-Value,0
+802,CT-91120,Deirdre Kerr,Female,20,Consumer,Stockton,California,95207,West,1352,0,1,0,2.96,0,0,1.42,Low-Value,0
+803,CT-91121,Katherine Skinner,Female,23,Consumer,Mesa,Arizona,85204,West,1352,0,1,0,95.94,0,0,9.59,Low-Value,0
+804,CT-91122,Matt Martin,Male,45,Home Office,Cincinnati,Ohio,45231,East,1352,0,1,0,169.68,0,0,45.81,Low-Value,0
+805,CT-91123,Max Campbell,Male,37,Home Office,Minneapolis,Minnesota,55407,Central,1110,0,1,0,132.52,0,0,54.33,Low-Value,0
+806,CT-91124,Wendy Young,Female,18,Consumer,New York City,New York,10035,East,1110,0,1,0,12.72,0,0,4.96,Low-Value,0
+807,CT-91125,Angela Taylor,Female,24,Consumer,Concord,North Carolina,28027,South,1132,0,1,0,14.28,0,0,3.71,Low-Value,0
+808,CT-91126,John Lee,Male,16,Consumer,Philadelphia,Pennsylvania,19134,East,1132,0,1,0,15.75,0,0,7.56,Low-Value,0
+809,CT-91127,Richard Davidson,Male,22,Consumer,New York City,New York,10024,East,1132,0,1,0,15.51,0,0,3.88,Low-Value,0
+810,CT-91128,Christopher Howard,Male,14,Consumer,Columbus,Georgia,31907,South,1132,0,1,0,89.9,0,0,25.17,Low-Value,0
+811,CT-91129,Trevor Ferguson,Male,20,Consumer,Chicago,Illinois,60623,Central,1253,0,1,0,11.088,0,0,-8.83,Low-Value,0
+812,CT-91130,Stewart Bell,Male,14,Consumer,Chester,Pennsylvania,19013,East,1371,0,1,0,26.72,0,0,11.76,Low-Value,0
+813,CT-91131,Carol Gill,Female,13,Consumer,Huntsville,Texas,77340,Central,1337,0,1,0,63.88,0,0,24.91,Low-Value,0
+814,CT-91132,William Lambert,Male,60,Corporate,Houston,Texas,77036,Central,1337,0,1,0,623.4648,0,0,-119.51,Low-Value,0
+815,CT-91133,Deirdre Hemmings,Female,22,Consumer,Auburn,Alabama,36830,South,1337,0,1,0,11.06,0,0,-19.6,Low-Value,0
+816,CT-91134,Christian Duncan,Male,47,Corporate,Seattle,Washington,98115,West,1337,0,1,0,772.68,0,0,-58.15,Low-Value,0
+817,CT-91135,Ava Forsyth,Female,45,Corporate,New York City,New York,10009,East,1337,0,1,0,359.499,0,0,-29.76,Low-Value,0
+818,CT-91136,Andrea Fraser,Female,24,Consumer,Allen,Texas,75002,Central,1303,0,1,0,10.48,0,0,2.83,Low-Value,0
+819,CT-91137,Rebecca Ogden,Female,31,Home Office,Philadelphia,Pennsylvania,19120,East,1303,0,1,0,261.96,0,0,23.58,Low-Value,0
+820,CT-91138,Thomas Oliver,Male,18,Consumer,College Station,Texas,77840,Central,1107,0,1,0,3.76,0,0,1.09,Low-Value,0
+821,CT-91139,Joanne Manning,Female,20,Consumer,Louisville,Kentucky,40214,South,1107,0,1,0,14.7,0,0,6.62,Low-Value,0
+822,CT-91140,Joshua Edmunds,Male,13,Consumer,Tucson,Arizona,85705,West,1107,0,1,0,37.2,0,0,9.3,Low-Value,0
+823,CT-91141,Bernadette Hill,Female,18,Consumer,Palm Coast,Florida,32137,South,1351,0,1,0,74.0,0,0,37.0,Low-Value,0
+824,CT-91142,Michael Dickens,Male,18,Consumer,Wilmington,North Carolina,28403,South,1252,0,1,0,89.97,0,0,18.89,Low-Value,0
+825,CT-91143,Max Nash,Male,22,Consumer,Rochester,New York,14609,East,1205,0,1,0,37.608000000000004,0,0,12.49,Low-Value,0
+826,CT-91144,Oliver Berry,Male,24,Consumer,Monroe,Louisiana,71203,South,1205,0,1,0,1.556,0,0,-5.0,Low-Value,0
+827,CT-91145,Maria Martin,Female,25,Consumer,Raleigh,North Carolina,27604,South,1167,0,1,0,10.272,0,0,3.01,Low-Value,0
+828,CT-91146,Justin Buckland,Male,19,Consumer,Baltimore,Maryland,21215,East,827,1,1,0,4.656000000000001,0,1,1.37,Low-Value,0
+829,CT-91147,Paul Peake,Male,12,Consumer,San Antonio,Texas,78207,Central,844,1,1,0,77.6,0,1,27.93,Low-Value,0
+830,CT-91148,Lillian May,Female,46,Corporate,Columbus,Georgia,31907,South,964,0,1,0,396.92,0,0,148.65,Low-Value,0
+831,CT-91149,Anthony Martin,Male,19,Consumer,Boynton Beach,Florida,33437,South,942,0,1,0,13.12,0,0,1.93,Low-Value,0
+832,CT-91150,Caroline Allan,Female,24,Consumer,Spokane,Washington,99207,West,942,0,1,0,9.248,0,0,3.15,Low-Value,0
+833,CT-91151,David Randall,Male,32,Home Office,New York City,New York,10035,East,1092,0,1,0,239.456,0,0,17.76,Low-Value,0
+834,CT-91152,Boris Hodges,Male,12,Consumer,Evanston,Illinois,60201,Central,931,0,1,0,62.04,0,0,4.45,Low-Value,0
+835,CT-91153,Piers Vaughan,Male,38,Corporate,San Francisco,California,94110,West,755,1,1,0,1889.9460000000001,0,1,-378.39,Low-Value,0
+836,CT-91154,Molly Ellison,Female,22,Consumer,Lancaster,Ohio,43130,East,1037,0,1,0,1.188,0,0,-1.69,Low-Value,0
+837,CT-91155,Madeleine Howard,Female,43,Home Office,Richmond,Kentucky,40475,South,1037,0,1,0,191.968,0,0,28.6,Low-Value,0
+838,CT-91156,Claire North,Female,19,Consumer,Littleton,Colorado,80122,West,1004,0,1,0,2.8960000000000004,0,0,0.78,Low-Value,0
+839,CT-91157,Rose Rees,Female,24,Consumer,Green Bay,Wisconsin,54302,Central,946,0,1,0,11.808,0,0,1.13,Low-Value,0
+840,CT-91158,Sebastian Manning,Male,13,Consumer,Los Angeles,California,90049,West,779,1,1,0,19.76,0,1,5.73,Low-Value,0
+841,CT-91159,Ian Kelly,Male,20,Consumer,Lawrence,Massachusetts,1841,East,779,1,1,0,9.656,0,1,1.37,Low-Value,0
+842,CT-91160,Lucas Dowd,Male,50,Corporate,San Francisco,California,94122,West,779,1,1,0,2314.116,1,2,-1003.18,Low-Value,0
+843,CT-91161,Dylan Avery,Male,18,Consumer,Bowling Green,Kentucky,42104,South,779,1,1,0,27.36,0,1,-22.59,Low-Value,0
+844,CT-91162,Frank Mitchell,Male,22,Consumer,Philadelphia,Pennsylvania,19143,East,779,1,1,0,34.236,0,1,-26.95,Low-Value,0
+845,CT-91163,Jason McLean,Male,20,Consumer,Newark,Ohio,43055,East,779,1,1,0,20.736,0,1,7.06,Low-Value,0
+846,CT-91164,Anthony Duncan,Male,29,Home Office,Los Angeles,California,90032,West,779,1,1,0,182.94,0,1,85.98,Low-Value,0
+847,CT-91165,Evan Taylor,Male,15,Consumer,Richmond,Kentucky,40475,South,779,1,1,0,44.96,0,1,20.68,Low-Value,0
+848,CT-91166,Edward Russell,Male,22,Consumer,Philadelphia,Pennsylvania,19120,East,779,1,1,0,62.04,0,1,17.37,Low-Value,0
+849,CT-91167,Austin Sharp,Male,51,Corporate,Denver,Colorado,80219,West,1090,0,1,0,367.96,0,0,14.72,Low-Value,0
+850,CT-91168,Piers Welch,Male,50,Corporate,Houston,Texas,77070,Central,1090,0,1,0,494.97,0,0,148.49,Low-Value,0
+851,CT-91169,Edward Miller,Male,22,Consumer,Columbus,Ohio,43229,East,1090,0,1,0,29.16,0,0,8.46,Low-Value,0
+852,CT-91170,Connor Quinn,Male,45,Home Office,Jacksonville,North Carolina,28540,South,1054,0,1,0,184.752,0,0,-20.98,Low-Value,0
+853,CT-91171,Steven Graham,Male,38,Corporate,Everett,Massachusetts,2149,East,1063,0,1,0,2357.488,1,1,883.86,Low-Value,0
+854,CT-91172,Victor Baker,Male,37,Corporate,Lake Elsinore,California,92530,West,1063,0,1,0,369.54400000000004,0,0,32.14,Low-Value,0
+855,CT-91173,Gavin McDonald,Male,43,Home Office,Fayetteville,North Carolina,28314,South,1063,0,1,0,236.528,0,0,-3.16,Low-Value,0
+856,CT-91174,Luke Sanderson,Male,25,Consumer,Chicago,Illinois,60610,Central,1086,0,1,0,18.72,0,0,6.35,Low-Value,0
+857,CT-91175,Christopher Hamilton,Male,20,Consumer,Tyler,Texas,75701,Central,667,1,1,0,25.02,0,1,10.51,Low-Value,0
+858,CT-91176,Alexandra Kerr,Female,25,Consumer,Rochester,Minnesota,55901,Central,471,1,1,0,8.8,0,1,4.22,Low-Value,0
+859,CT-91177,Diana Lyman,Female,37,Corporate,Huntington Beach,California,92646,West,471,1,1,0,590.352,0,1,206.42,Low-Value,0
+860,CT-91178,Jessica North,Female,17,Consumer,Hamilton,Ohio,45011,East,720,1,1,0,76.58,0,1,38.29,Low-Value,0
+861,CT-91179,Brandon Lewis,Male,24,Consumer,New York City,New York,10011,East,720,1,1,0,5.58,0,1,0.17,Low-Value,0
+862,CT-91180,James Blake,Male,59,Corporate,Los Angeles,California,90004,West,476,1,1,0,452.55,0,1,22.63,Low-Value,0
+863,CT-91181,Keith Slater,Male,37,Corporate,Los Angeles,California,90004,West,378,2,1,0,1048.35,0,2,-70.29,Low-Value,0
+864,CT-91182,Julia North,Female,21,Consumer,Brownsville,Texas,78521,Central,365,2,1,0,21.456,0,2,6.77,Low-Value,0
+865,CT-91183,Christian James,Male,15,Consumer,Philadelphia,Pennsylvania,19134,East,534,1,1,0,78.304,0,1,29.16,Low-Value,0
+866,CT-91184,Simon Walker,Male,18,Consumer,Philadelphia,Pennsylvania,19120,East,486,1,1,0,59.97,0,1,-12.39,Low-Value,0
+867,CT-91185,Colin Grant,Male,23,Consumer,La Porte,Indiana,46350,Central,398,2,1,0,11.22,0,2,-8.18,Low-Value,0
+868,CT-91186,Brian Bell,Male,20,Consumer,Carrollton,Texas,75007,Central,398,2,1,0,60.864,0,2,8.93,Low-Value,0
+869,CT-91187,Joshua Avery,Male,55,Corporate,Chicago,Illinois,60610,Central,398,2,1,0,652.995,0,2,-936.66,Low-Value,0
+870,CT-91188,Piers White,Male,33,Home Office,Seattle,Washington,98105,West,398,2,1,0,198.74400000000003,0,2,-14.5,Low-Value,0
+871,CT-91189,Ryan Davies,Male,16,Consumer,Fresno,California,93727,West,505,1,1,0,9.184,0,1,0.95,Low-Value,0
+872,CT-91190,Blake Arnold,Male,59,Corporate,Roswell,Georgia,30076,South,505,1,1,0,599.97,0,1,69.6,Low-Value,0
+873,CT-91191,Dan Parr,Male,50,Corporate,Fayetteville,North Carolina,28314,South,630,1,1,0,1079.316,0,1,-15.72,Low-Value,0
+874,CT-91192,Trevor McLean,Male,39,Home Office,Atlanta,Georgia,30318,South,451,2,1,0,155.88,0,2,54.56,Low-Value,0
+875,CT-91193,Max McGrath,Male,25,Consumer,Columbus,Ohio,43229,East,365,2,1,0,17.52,0,2,8.41,Low-Value,0
+876,CT-91194,Rose Mills,Female,22,Consumer,San Francisco,California,94122,West,365,2,1,0,47.61600000000001,0,2,3.37,Low-Value,0
+877,CT-91195,Adam Paige,Male,23,Consumer,Columbus,Georgia,31907,South,482,1,1,0,23.48,0,1,8.02,Low-Value,0
+878,CT-91196,Jacob Rutherford,Male,45,Corporate,New York City,New York,10024,East,624,1,1,0,449.91,0,1,157.47,Low-Value,0
+879,CT-91197,Sebastian Dickens,Male,24,Consumer,Thomasville,North Carolina,27360,South,637,1,1,0,24.0,0,1,-2.9,Low-Value,0
+880,CT-91198,Max Sanderson,Male,18,Consumer,Henderson,Kentucky,42420,South,490,1,1,0,8.7,0,1,-7.08,Low-Value,0
+881,CT-91199,Robert Coleman,Male,58,Corporate,San Francisco,California,94122,West,490,1,1,0,848.544,0,1,-21.41,Low-Value,0
+882,CT-91200,Eric Davies,Male,35,Home Office,Urbandale,Iowa,50322,Central,573,1,1,0,122.382,0,1,-24.88,Low-Value,0
+883,CT-91201,Lauren Blake,Female,24,Consumer,Grove City,Ohio,43123,East,573,1,1,0,14.82,0,1,6.97,Low-Value,0
+884,CT-91202,Kevin Rutherford,Male,18,Consumer,Philadelphia,Pennsylvania,19143,East,573,1,1,0,68.742,0,1,-48.82,Low-Value,0
